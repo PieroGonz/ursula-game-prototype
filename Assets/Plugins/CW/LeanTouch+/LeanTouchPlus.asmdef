@@ -1,0 +1,20 @@
+{
+    "name": "LeanTouchPlus",
+    "rootNamespace": "",
+    "references": [
+        "LeanCommon",
+        "LeanTouch",
+        "LeanCommonPlus",
+        "CW.Common",
+        "MoreMountains.Feedbacks"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

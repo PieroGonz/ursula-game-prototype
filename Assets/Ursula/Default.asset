@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49a9270ec8ddfd144ba549d14650763a, type: 3}
+  m_Name: Default
+  m_EditorClassIdentifier: 
+  personalityName: Embarassed
+  idleAnimation:
+    useBooleanAction: 1
+    booleanAction: 12
+    triggerAction: 0
+    Text: 
+    startupVFX: {fileID: 0}
+    startupDuration: 1
+    activeVFX: {fileID: 0}
+    activeDuration: 0.5
+    releaseVFX: {fileID: 0}
+    releaseDuration: 2
+  moveAnimation:
+    useBooleanAction: 1
+    booleanAction: 21
+    triggerAction: 0
+    Text: 
+    startupVFX: {fileID: 0}
+    startupDuration: 1
+    activeVFX: {fileID: 0}
+    activeDuration: 0.5
+    releaseVFX: {fileID: 0}
+    releaseDuration: 2
+  showeringAnimation:
+    useBooleanAction: 1
+    booleanAction: 13
+    triggerAction: 0
+    Text: 
+    startupVFX: {fileID: 0}
+    startupDuration: 1
+    activeVFX: {fileID: 0}
+    activeDuration: 0.5
+    releaseVFX: {fileID: 0}
+    releaseDuration: 2
+  showerSurprisedAnimation:
+    useBooleanAction: 0
+    booleanAction: 0
+    triggerAction: 10
+    Text: 
+    startupVFX: {fileID: 0}
+    startupDuration: 1
+    activeVFX: {fileID: 0}
+    activeDuration: 0.5
+    releaseVFX: {fileID: 0}
+    releaseDuration: 2
+  tapReactionAnimation:
+    useBooleanAction: 0
+    booleanAction: 0
+    triggerAction: 23
+    Text: This is so ticklish!!
+    startupVFX: {fileID: 0}
+    startupDuration: 1
+    activeVFX: {fileID: 0}
+    activeDuration: 0.5
+    releaseVFX: {fileID: 0}
+    releaseDuration: 2
+  tapAnnoyedAnimation:
+    useBooleanAction: 0
+    booleanAction: 0
+    triggerAction: 13
+    Text: I am going to <shake a=0.5> SNEEEZE! </shake>
+    startupVFX: {fileID: 138498, guid: 6bbfcf34ed5bd91429b4a678913fb8e1, type: 3}
+    startupDuration: 1.6
+    activeVFX: {fileID: 1940008134688730, guid: 6b573e0cc051d6849aba90ea8131e486, type: 3}
+    activeDuration: 1.2
+    releaseVFX: {fileID: 189228, guid: ec8892b21e335f54399e40688278ac91, type: 3}
+    releaseDuration: 6
+  specialActionAnimation:
+    useBooleanAction: 0
+    booleanAction: 1
+    triggerAction: 0
+    Text: 
+    startupVFX: {fileID: 0}
+    startupDuration: 1
+    activeVFX: {fileID: 0}
+    activeDuration: 0.5
+    releaseVFX: {fileID: 0}
+    releaseDuration: 2
+  dragAnimationLoop:
+    useBooleanAction: 1
+    booleanAction: 7
+    triggerAction: 0
+    Text: 
+    startupVFX: {fileID: 0}
+    startupDuration: 1
+    activeVFX: {fileID: 0}
+    activeDuration: 0.5
+    releaseVFX: {fileID: 0}
+    releaseDuration: 2
+  dragAnimationEnd:
+    useBooleanAction: 0
+    booleanAction: 0
+    triggerAction: 23
+    Text: 
+    startupVFX: {fileID: 0}
+    startupDuration: 1
+    activeVFX: {fileID: 0}
+    activeDuration: 0.5
+    releaseVFX: {fileID: 0}
+    releaseDuration: 2
+  hatGameStartAnimation:
+    useBooleanAction: 0
+    booleanAction: 0
+    triggerAction: 18
+    Text: The hat game? What is a hat?
+    startupVFX: {fileID: 0}
+    startupDuration: 1
+    activeVFX: {fileID: 0}
+    activeDuration: 0.5
+    releaseVFX: {fileID: 0}
+    releaseDuration: 2
+  equipHatAnimation:
+    useBooleanAction: 0
+    booleanAction: 0
+    triggerAction: 12
+    Text: Put this pointy thing in my head? I can try...
+    startupVFX: {fileID: 0}
+    startupDuration: 1
+    activeVFX: {fileID: 0}
+    activeDuration: 0.5
+    releaseVFX: {fileID: 0}
+    releaseDuration: 2

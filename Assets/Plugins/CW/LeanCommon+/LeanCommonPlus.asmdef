@@ -1,0 +1,19 @@
+{
+    "name": "LeanCommonPlus",
+    "rootNamespace": "",
+    "references": [
+        "LeanCommon",
+        "CW.Common",
+        "MoreMountains.Feedbacks",
+        "MoreMountains.Tools"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
