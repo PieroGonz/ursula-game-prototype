@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cb0c5e18beecc1a4d8823ac44eb6d6d3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Prefabs/UI/UIElements/Progression-item-btn-1.prefab
+  uploadId: 707675

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 99b1fa4939764c2488caa5d03b152ed0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/ScriptableObjects/Abilities/char-5-ability 1.asset
+  uploadId: 707675

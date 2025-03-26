@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ef4ce0cd878df37439b12f22f4fcc87c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/ScriptableObjects/LevelupRewards/levelup-reward 0.asset
+  uploadId: 707675

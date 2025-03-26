@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: de3c6c826091138449ccc425e430020f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Art/Animation/Gameplay/weather-1-fog.controller
+  uploadId: 707675

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 70a830348f2275d4ca6b6ef352f8f8ea
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Prefabs/Gameplay/Exploration/tower-1.prefab
+  uploadId: 707675

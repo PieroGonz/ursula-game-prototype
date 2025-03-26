@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbaf69d3414c97c43abb36f3671525bf, type: 3}
+  m_Name: avatar-glass 3
+  m_EditorClassIdentifier: 
+  m_TitleFarsi: glasses-3
+  m_TitleEnglish: none
+  m_PriceInCoin: 1000
+  m_PriceInGem: 1000
+  m_Icon: {fileID: 21300000, guid: eb6d39b51d03e1e479e955f2fc0ac244, type: 3}
+  m_IconLocked: {fileID: 0}
+  m_Unlocked: 0
+  m_UnlockedAtStart: 0
+  m_TempUnlocked: 0
+  m_SpecialPackage: 0
+  m_ItemID: Item1
+  m_ItemLevel: 0
+  m_PartType: 9
+  m_PartSprite: {fileID: 21300000, guid: adc46bfdf57d1724796c286bac0072e0, type: 3}

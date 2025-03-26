@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0442683d883ed054bbe579d1b16f976a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Prefabs/Gameplay/Stages/fight-background-2.prefab
+  uploadId: 707675

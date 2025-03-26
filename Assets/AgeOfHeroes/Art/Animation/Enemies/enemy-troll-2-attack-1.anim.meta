@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6ec55ee4a721103468ad7b2b5f993255
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Art/Animation/Enemies/enemy-troll-2-attack-1.anim
+  uploadId: 707675

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 07852aecc80b49040a9254c4ded1940a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/ScriptableObjects/AvatarParts/1-face/avatar-face
+    2.asset
+  uploadId: 707675

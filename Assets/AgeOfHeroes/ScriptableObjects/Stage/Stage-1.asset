@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d94844c9645fa1a4d8785420536b7e87, type: 3}
+  m_Name: Stage-1
+  m_EditorClassIdentifier: 
+  m_TitleFarsi: "\uFEDE\uFB95\uFEE8\uFE9F"
+  m_TitleEnglish: Jungle
+  m_PriceInCoin: 0
+  m_PriceInGem: 0
+  m_Icon: {fileID: 21300000, guid: 200524bd4f61986429bf44431db4b659, type: 3}
+  m_IconLocked: {fileID: 0}
+  m_Unlocked: 1
+  m_UnlockedAtStart: 1
+  m_TempUnlocked: 0
+  m_SpecialPackage: 0
+  m_ItemID: Item1
+  m_ItemLevel: 0
+  m_Stage: {fileID: 1945313684814616284, guid: 8f1f86e1d1f770442a03b94fdfb0042c, type: 3}

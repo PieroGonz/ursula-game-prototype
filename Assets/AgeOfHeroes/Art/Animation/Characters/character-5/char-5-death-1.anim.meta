@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d3977e9a4a6fa4d4184c2ef315ff5a04
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Art/Animation/Characters/character-5/char-5-death-1.anim
+  uploadId: 707675

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f664f0c0ed2df29438e783323228c58a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Prefabs/UI/Menus/RandomBoxUI.prefab
+  uploadId: 707675

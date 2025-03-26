@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 35aa629943ce00244a5c0ecc6e67046a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Art/Animation/Characters/character-1/char-1-idle-1.anim
+  uploadId: 707675

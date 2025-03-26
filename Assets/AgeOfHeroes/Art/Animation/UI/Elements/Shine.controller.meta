@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4d6fa30b51e0cc549bad9d867301ace2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Art/Animation/UI/Elements/Shine.controller
+  uploadId: 707675

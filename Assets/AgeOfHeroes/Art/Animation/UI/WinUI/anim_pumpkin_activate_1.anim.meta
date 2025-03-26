@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cc1fccfd169ff5d4fbc9609fece65659
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Art/Animation/UI/WinUI/anim_pumpkin_activate_1.anim
+  uploadId: 707675

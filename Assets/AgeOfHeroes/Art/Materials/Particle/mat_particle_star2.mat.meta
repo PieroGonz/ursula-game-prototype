@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 42ab1934966816d4f86b5288e43e8e66
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Art/Materials/Particle/mat_particle_star2.mat
+  uploadId: 707675

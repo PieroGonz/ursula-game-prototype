@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6e06ff62ee3e0b44685145773c3451b8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Art/Animation/UI/Elements/RawImage.controller
+  uploadId: 707675

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b7262d5c608ed0c4ea5db3d0f12654a4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Prefabs/UI/Menus/OfflineMatchUI.prefab
+  uploadId: 707675

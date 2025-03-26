@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3d63337a581af4c479d0a0b9390ac2ca
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/ScriptableObjects/Characters/Character 8.asset
+  uploadId: 707675

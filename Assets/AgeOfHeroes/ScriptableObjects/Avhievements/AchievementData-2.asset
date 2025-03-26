@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6bed569b8b675ba4bb36f792efa410a6, type: 3}
+  m_Name: AchievementData-2
+  m_EditorClassIdentifier: 
+  m_TitleFarsi: 100 attacks
+  m_TitleEnglish: 100 attacks
+  m_Description: Attack 100 times!
+  m_Icon: {fileID: 21300000, guid: b034ae4938b66f64fa7da98464426d5e, type: 3}
+  CounterMax: 100
+  Counter: 2
+  m_Reward: {fileID: 11400000, guid: 17f418d035aed9c45aec40640a3dabb7, type: 2}
+  m_Achieved: 0
+  m_GotReward: 1

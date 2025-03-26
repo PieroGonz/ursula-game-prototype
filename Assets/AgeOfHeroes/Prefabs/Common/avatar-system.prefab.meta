@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c59e3cebc8b49f645ae67d44a3a63a31
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Prefabs/Common/avatar-system.prefab
+  uploadId: 707675

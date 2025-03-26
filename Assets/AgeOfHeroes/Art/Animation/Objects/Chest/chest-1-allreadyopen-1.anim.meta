@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8ea54f5f472f4a74789c273cda1d4cde
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Art/Animation/Objects/Chest/chest-1-allreadyopen-1.anim
+  uploadId: 707675

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 897ed3b7ca14d104384ba9568eef722c, type: 3}
+  m_Name: enemy-1-bee-1
+  m_EditorClassIdentifier: 
+  m_TitleFarsi: "\u06CC\u0648\uFE8E\uFB94 \u0631\uFEEE\uFE92\uFEE7\u0632"
+  m_TitleEnglish: Bee
+  m_PriceInCoin: 1000
+  m_PriceInGem: 1000
+  m_Icon: {fileID: 21300000, guid: 7c501d957e1f79246ab03b594e0d93b4, type: 3}
+  m_IconLocked: {fileID: 21300000, guid: 7c501d957e1f79246ab03b594e0d93b4, type: 3}
+  m_Unlocked: 1
+  m_UnlockedAtStart: 0
+  m_TempUnlocked: 0
+  m_SpecialPackage: 0
+  m_ItemID: Item1
+  m_ItemLevel: 0
+  m_EmptyCharacter: {fileID: 4198889403530208894, guid: e23e1d11aa4b8cc4eac9e0c8e3a09a21, type: 3}
+  m_BodyBasePrefab: {fileID: 0}
+  m_Abilities: []
+  m_Health: 0
+  m_Damage: 0
+  m_Defence: 0
+  m_Skins: []
+  m_Weapons: []
+  m_SkinNum: 0
+  m_WeaponNum: 0

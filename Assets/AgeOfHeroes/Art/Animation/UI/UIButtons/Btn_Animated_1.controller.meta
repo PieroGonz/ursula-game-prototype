@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b936a3d5a64119c4b9bdf30ef78f3997
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Art/Animation/UI/UIButtons/Btn_Animated_1.controller
+  uploadId: 707675

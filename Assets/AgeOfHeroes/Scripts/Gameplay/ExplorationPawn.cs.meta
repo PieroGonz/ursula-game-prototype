@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5604e1d6fb4b9ad46bb637c6e4997089
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 250
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Scripts/Gameplay/ExplorationPawn.cs
+  uploadId: 707675

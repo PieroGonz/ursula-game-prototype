@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a916b07c50fc9874182cd49be72a813d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Prefabs/UI/UIElements/ItemListButton.prefab
+  uploadId: 707675

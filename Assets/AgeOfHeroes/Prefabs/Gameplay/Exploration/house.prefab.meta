@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3162f81b099764544b9adcd4a65b77de
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Prefabs/Gameplay/Exploration/house.prefab
+  uploadId: 707675

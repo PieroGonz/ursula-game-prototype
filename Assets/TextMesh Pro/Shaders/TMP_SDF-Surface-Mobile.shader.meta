@@ -7,3 +7,10 @@ ShaderImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader
+  uploadId: 707675

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d7821e5dcdc4e634a938528b45d7ff89
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Scripts/UI/UISystem/UIMessages/UIMessage_B.cs
+  uploadId: 707675

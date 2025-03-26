@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a344e01f6ceb4984f9f1c32e5e00d321
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Prefabs/UI/Tutorials/tutorial-inventory.prefab
+  uploadId: 707675

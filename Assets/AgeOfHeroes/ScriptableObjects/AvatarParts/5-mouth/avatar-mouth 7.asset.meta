@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: db196eeb49299f74e9bc4475cfaa11c0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/ScriptableObjects/AvatarParts/5-mouth/avatar-mouth
+    7.asset
+  uploadId: 707675

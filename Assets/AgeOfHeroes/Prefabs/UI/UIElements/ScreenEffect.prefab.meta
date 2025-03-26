@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0c83af918b486d34b80da0ab8c682559
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Prefabs/UI/UIElements/ScreenEffect.prefab
+  uploadId: 707675

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 440ddc6a39593f94fa53b5103bc38eae
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Prefabs/UI/RewardUI/CoinRewardUI.prefab
+  uploadId: 707675

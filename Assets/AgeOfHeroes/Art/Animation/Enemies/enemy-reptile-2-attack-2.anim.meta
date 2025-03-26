@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ebcbf06f4400c0444baf3ef394c3604d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Art/Animation/Enemies/enemy-reptile-2-attack-2.anim
+  uploadId: 707675

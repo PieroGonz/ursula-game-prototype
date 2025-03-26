@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e23e1d11aa4b8cc4eac9e0c8e3a09a21
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Prefabs/Gameplay/Characters/AIEnemies/enemy-bee-1.prefab
+  uploadId: 707675

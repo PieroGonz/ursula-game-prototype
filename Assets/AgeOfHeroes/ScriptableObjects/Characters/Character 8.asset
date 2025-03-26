@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 897ed3b7ca14d104384ba9568eef722c, type: 3}
+  m_Name: Character 8
+  m_EditorClassIdentifier: 
+  m_TitleFarsi: "\uFEAE\uFB94\u0648\u062F\uFE8E\uFE9F"
+  m_TitleEnglish: The Mage
+  m_PriceInCoin: 20000
+  m_PriceInGem: 0
+  m_Icon: {fileID: 21300000, guid: 3e93e76fab4ca87408c76a80fa085490, type: 3}
+  m_IconLocked: {fileID: 21300000, guid: ea2967a2cb8824d49828e1fdfa94c0b7, type: 3}
+  m_Unlocked: 0
+  m_UnlockedAtStart: 0
+  m_TempUnlocked: 0
+  m_SpecialPackage: 0
+  m_ItemID: Item1
+  m_ItemLevel: 0
+  m_EmptyCharacter: {fileID: 396966802338336094, guid: ed1a56760d7d84e44b3f83b28539a0f9, type: 3}
+  m_BodyBasePrefab: {fileID: 7597726706328523591, guid: e2444d7cc77c85a4c83f616d238bf652, type: 3}
+  m_Abilities:
+  - {fileID: 11400000, guid: 706786e409415d14cb9eee85eb21adc5, type: 2}
+  - {fileID: 11400000, guid: c38a26e7d88835a4f9db50e6f28f0960, type: 2}
+  - {fileID: 11400000, guid: 958f141e5748e2843b9db65133a5c995, type: 2}
+  m_Health: 100
+  m_Damage: 13
+  m_Defence: 10
+  m_Skins:
+  - {fileID: 11400000, guid: 6560cf2486463de40b45331c2aed10e4, type: 2}
+  - {fileID: 11400000, guid: 7b9fee32c28f5e244a7d77c9ca1ced1b, type: 2}
+  m_Weapons:
+  - {fileID: 11400000, guid: 9a944c03a3c568c4cb68245879aec9e2, type: 2}
+  - {fileID: 11400000, guid: 4b5725dec934acc40b1f2073f16e7af1, type: 2}
+  m_SkinNum: 1
+  m_WeaponNum: 0

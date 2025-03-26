@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 572272418f64c934485f81513f41c0d2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Art/Animation/Enemies/body-1 3.controller
+  uploadId: 707675

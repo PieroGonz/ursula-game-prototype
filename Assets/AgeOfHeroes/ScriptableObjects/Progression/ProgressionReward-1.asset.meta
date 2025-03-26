@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5f2133af3e78bb04e9c149ebe9bf27ca
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/ScriptableObjects/Progression/ProgressionReward-1.asset
+  uploadId: 707675

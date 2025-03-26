@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ec365d7e093e6e147916d459a3d3752a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Art/Animation/UI/Elements/StartUI_Idle.anim
+  uploadId: 707675

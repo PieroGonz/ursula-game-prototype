@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0fe4d76bbe3b1084680bfd4f33d11734
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Prefabs/UI/Menus/CoinShopUI.prefab
+  uploadId: 707675

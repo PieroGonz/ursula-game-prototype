@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 021f135cd56931b42b2cd7ac3bb899af
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Scripts/UI/Effects/AlphaAnim.cs
+  uploadId: 707675

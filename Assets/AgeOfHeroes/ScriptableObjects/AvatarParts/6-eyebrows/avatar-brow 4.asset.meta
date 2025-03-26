@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5452d1fc1f679ca438545decfd0d130b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/ScriptableObjects/AvatarParts/6-eyebrows/avatar-brow
+    4.asset
+  uploadId: 707675

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6ba1e890233962b419b7dba382072691
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Art/Animation/Characters/character-8/character-body-8.controller
+  uploadId: 707675

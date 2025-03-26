@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fc36412332fb5464f9fc223fedf3bf3c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/ScriptableObjects/Enemies/enemy-5-troll-3.asset
+  uploadId: 707675

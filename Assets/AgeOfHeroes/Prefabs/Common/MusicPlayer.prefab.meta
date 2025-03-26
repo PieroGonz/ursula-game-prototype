@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d7378c5051a0856439b4d525003d0581
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Prefabs/Common/MusicPlayer.prefab
+  uploadId: 707675

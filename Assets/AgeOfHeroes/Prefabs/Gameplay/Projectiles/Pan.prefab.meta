@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8059b6cbc9290144cb6135d548cd5a14
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Prefabs/Gameplay/Projectiles/Pan.prefab
+  uploadId: 707675

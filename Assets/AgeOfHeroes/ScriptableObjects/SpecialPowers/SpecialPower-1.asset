@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc0bc66b1d91ea9488fd547fcb7f8fbe, type: 3}
+  m_Name: SpecialPower-1
+  m_EditorClassIdentifier: 
+  m_TitleFarsi: none
+  m_TitleEnglish: none
+  m_PriceInCoin: 1000
+  m_PriceInGem: 1000
+  m_Icon: {fileID: 0}
+  m_IconLocked: {fileID: 0}
+  m_Unlocked: 0
+  m_UnlockedAtStart: 0
+  m_TempUnlocked: 0
+  m_SpecialPackage: 0
+  m_ItemID: Item1
+  m_ItemLevel: 0
+  m_FieldPrefab: {fileID: 0}

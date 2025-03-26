@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6bed569b8b675ba4bb36f792efa410a6, type: 3}
+  m_Name: AchievementData-9
+  m_EditorClassIdentifier: 
+  m_TitleFarsi: "\uFEE6\uFBFE\uFEFC\uFEE7\u0622 \u062F\uFEAE\uFE91 \u0662\u0665"
+  m_TitleEnglish: 25 Batlle Win!
+  m_Description: Win 25 battles!
+  m_Icon: {fileID: 21300000, guid: 1bd9f0c7f8dfd8944b9ee65127bc5850, type: 3}
+  CounterMax: 25
+  Counter: 0
+  m_Reward: {fileID: 11400000, guid: 9960951c2f126254486d2633b13734f6, type: 2}
+  m_Achieved: 0
+  m_GotReward: 0

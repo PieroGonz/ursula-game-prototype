@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 897ed3b7ca14d104384ba9568eef722c, type: 3}
+  m_Name: Character 5
+  m_EditorClassIdentifier: 
+  m_TitleFarsi: "\uFEEA\uFEE8\uFBFF\uFEE4\uFEEC\uFE97"
+  m_TitleEnglish: Tahmina
+  m_PriceInCoin: 9000
+  m_PriceInGem: 0
+  m_Icon: {fileID: 21300000, guid: 85385f851272a414eb4c5faaa589d568, type: 3}
+  m_IconLocked: {fileID: 21300000, guid: 2070e550cb8b50d488bf8298aadb45ca, type: 3}
+  m_Unlocked: 0
+  m_UnlockedAtStart: 0
+  m_TempUnlocked: 0
+  m_SpecialPackage: 0
+  m_ItemID: Item1
+  m_ItemLevel: 0
+  m_EmptyCharacter: {fileID: 396966802338336094, guid: 7e7689bfaaaf59d40a2661d18f5a0712, type: 3}
+  m_BodyBasePrefab: {fileID: 7597726706328523591, guid: 94cfbe81e11808d4783221229b4661d5, type: 3}
+  m_Abilities:
+  - {fileID: 11400000, guid: 99b1fa4939764c2488caa5d03b152ed0, type: 2}
+  - {fileID: 11400000, guid: 487d70e2f9487114183bf3d43215f54a, type: 2}
+  - {fileID: 11400000, guid: b410267ac4cf505439924f08b3dbd11a, type: 2}
+  m_Health: 100
+  m_Damage: 12
+  m_Defence: 10
+  m_Skins:
+  - {fileID: 11400000, guid: 43f59153fe582bc4483612847421e168, type: 2}
+  - {fileID: 11400000, guid: dc792bf5fc7291d48b2af6aed55c3e30, type: 2}
+  m_Weapons:
+  - {fileID: 11400000, guid: 7c90a51569acec64c81439e4169b3fe2, type: 2}
+  - {fileID: 11400000, guid: 36e4c6ecc4d9480439341e4bb1073e49, type: 2}
+  m_SkinNum: 1
+  m_WeaponNum: 0

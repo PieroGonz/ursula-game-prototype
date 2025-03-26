@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d6cafcec5bc9bf44a90ffc91d788eebc
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Prefabs/UI/Menus/PauseUI.prefab
+  uploadId: 707675

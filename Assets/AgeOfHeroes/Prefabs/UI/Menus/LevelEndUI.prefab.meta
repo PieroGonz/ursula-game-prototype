@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cf24cc8ec4f85df48a3cd7b527db6477
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Prefabs/UI/Menus/LevelEndUI.prefab
+  uploadId: 707675

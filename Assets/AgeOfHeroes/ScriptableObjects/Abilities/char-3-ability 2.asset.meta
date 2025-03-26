@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 96f5c1c3ec658984f8e066e2f39adfa3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/ScriptableObjects/Abilities/char-3-ability 2.asset
+  uploadId: 707675

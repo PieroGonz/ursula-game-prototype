@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c342f9ced3071ae4081dd023e408c360
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/ScriptableObjects/Levels/Level 12.asset
+  uploadId: 707675

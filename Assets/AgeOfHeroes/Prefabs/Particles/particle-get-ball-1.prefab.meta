@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 550352c12082f5a438f2506b8eaec66c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Prefabs/Particles/particle-get-ball-1.prefab
+  uploadId: 707675

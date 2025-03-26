@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: df0462ffa5cd43c45803c9a22fe51606
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Art/RenderTargets/RT-mainmenu-squad-1-1.renderTexture
+  uploadId: 707675

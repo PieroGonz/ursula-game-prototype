@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a3ffb15fe7ea51a43a45f786fda1755c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Scripts/Gameplay/FadingText.cs
+  uploadId: 707675

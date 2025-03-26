@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 840924587afaeda47afff995bc6704eb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Art/Animation/UI/Elements/WinUI_Start.anim
+  uploadId: 707675

@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 897ed3b7ca14d104384ba9568eef722c, type: 3}
+  m_Name: Character 3
+  m_EditorClassIdentifier: 
+  m_TitleFarsi: "\uFEB0\uFB58 \uFEEA\uFEE0\uFEB7 \uFEEE\uFEE4\uFECB"
+  m_TitleEnglish: Uncle Cook
+  m_PriceInCoin: 0
+  m_PriceInGem: 0
+  m_Icon: {fileID: 21300000, guid: 566c219ec0f5fff44b1371a8a9273568, type: 3}
+  m_IconLocked: {fileID: 21300000, guid: 0a58f949416f60146b10919e6616f724, type: 3}
+  m_Unlocked: 1
+  m_UnlockedAtStart: 1
+  m_TempUnlocked: 0
+  m_SpecialPackage: 0
+  m_ItemID: Item1
+  m_ItemLevel: 0
+  m_EmptyCharacter: {fileID: 396966802338336094, guid: ffbd6d3c7a5d3194ea1c4248dc7d6db7, type: 3}
+  m_BodyBasePrefab: {fileID: 7597726706328523591, guid: 984fd0abfd10db342a1e41a6cb8ec669, type: 3}
+  m_Abilities:
+  - {fileID: 11400000, guid: ba1d04bdf7a9d7c4bbfe90b21de7e2fa, type: 2}
+  - {fileID: 11400000, guid: 96f5c1c3ec658984f8e066e2f39adfa3, type: 2}
+  - {fileID: 11400000, guid: de78a19f2b891aa44a711841799c444f, type: 2}
+  m_Health: 120
+  m_Damage: 13
+  m_Defence: 12
+  m_Skins:
+  - {fileID: 11400000, guid: 5113f46f7c772a34c8d0c45bf33f5f13, type: 2}
+  - {fileID: 11400000, guid: 2c0a3a22286c4694b8e99346b5940b97, type: 2}
+  m_Weapons:
+  - {fileID: 11400000, guid: db4f8b9bae46ab64ba24f4b09be70ba0, type: 2}
+  - {fileID: 11400000, guid: f7275ae26e94c254e91b6bfafd48261a, type: 2}
+  m_SkinNum: 0
+  m_WeaponNum: 1

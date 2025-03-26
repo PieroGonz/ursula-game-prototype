@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbaf69d3414c97c43abb36f3671525bf, type: 3}
+  m_Name: avatar-facialhair 14
+  m_EditorClassIdentifier: 
+  m_TitleFarsi: beard-1
+  m_TitleEnglish: beard-14
+  m_PriceInCoin: 1000
+  m_PriceInGem: 1000
+  m_Icon: {fileID: 0}
+  m_IconLocked: {fileID: 0}
+  m_Unlocked: 0
+  m_UnlockedAtStart: 0
+  m_TempUnlocked: 0
+  m_SpecialPackage: 0
+  m_ItemID: Item1
+  m_ItemLevel: 0
+  m_PartType: 4
+  m_PartSprite: {fileID: 21300000, guid: 0e4c9dab17d538744b29051177e62802, type: 3}

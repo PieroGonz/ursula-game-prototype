@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cb1f3ba5e851ab347b10f6758145cddc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/ScriptableObjects/Abilities/char-10-ability 2.asset
+  uploadId: 707675

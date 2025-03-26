@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: de107e888101f7d49a2f5471e899744a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Prefabs/Particles/prt_bird-bomb-2.prefab
+  uploadId: 707675

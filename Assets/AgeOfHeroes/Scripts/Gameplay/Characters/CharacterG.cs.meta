@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 99a43ee1d5a349f45a51cb8baf53062a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Scripts/Gameplay/Characters/CharacterG.cs
+  uploadId: 707675

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 70c86805cfcd4c047929c8a2b888de98
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Art/Animation/Objects/Chest/Chest.controller
+  uploadId: 707675

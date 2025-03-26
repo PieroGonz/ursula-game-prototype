@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 72971c2c09c241544a3cee4a5aeb6697
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Prefabs/Particles/prt_gun-character-1.prefab
+  uploadId: 707675

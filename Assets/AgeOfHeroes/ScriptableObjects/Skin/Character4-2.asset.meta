@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 39858fbeb48e8d045a9e1346dd5ce6fb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/ScriptableObjects/Skin/Character4-2.asset
+  uploadId: 707675

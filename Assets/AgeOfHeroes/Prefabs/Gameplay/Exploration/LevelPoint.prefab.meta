@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6ee31be3e8ee83c4eb8c0dba23540ff5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Prefabs/Gameplay/Exploration/LevelPoint.prefab
+  uploadId: 707675

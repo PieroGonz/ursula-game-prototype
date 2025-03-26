@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0c3e2f1d2bbc9b44fab9946d01d18dea
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/ScriptableObjects/AvatarParts/9-glasses/avatar-glass
+    1.asset
+  uploadId: 707675

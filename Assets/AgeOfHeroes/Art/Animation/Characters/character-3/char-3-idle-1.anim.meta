@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4958930adc474fe4baf4d2d5da0ba0e8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Art/Animation/Characters/character-3/char-3-idle-1.anim
+  uploadId: 707675

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d3f86bd72c588694e81b0e5fe8ff6ed8
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Art/Shader/GrayscaleUI.shader
+  uploadId: 707675

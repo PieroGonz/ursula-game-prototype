@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 98ac737011a90984ba2c0fe02adc9aee
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Scripts/UI/Joystick/JoystickButton.cs
+  uploadId: 707675

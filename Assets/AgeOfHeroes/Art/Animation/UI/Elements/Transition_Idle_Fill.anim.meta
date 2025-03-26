@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 564344feb0d4ca543970e72775fb8d8c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Art/Animation/UI/Elements/Transition_Idle_Fill.anim
+  uploadId: 707675

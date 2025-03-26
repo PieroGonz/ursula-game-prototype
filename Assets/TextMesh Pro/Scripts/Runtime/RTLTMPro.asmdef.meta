@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1fbc052e3ea2ff24b8874f1cedb59b6c
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/TextMesh Pro/Scripts/Runtime/RTLTMPro.asmdef
+  uploadId: 707675

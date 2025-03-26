@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ff9580c1776ad5b4c867f1e8a45ff817
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Prefabs/UI/UIParticles/UIParticle_Sparkle_1.prefab
+  uploadId: 707675

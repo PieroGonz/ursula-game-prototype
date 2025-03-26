@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6fe57fbbe1232ea4cbeacc921090da3f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/ScriptableObjects/AvatarParts/3-hairs/avatar-hair
+    31.asset
+  uploadId: 707675

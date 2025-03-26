@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 077f49375afa1bc49b3af62f15bbdfe6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: -3
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Scripts/Gameplay/FightCamera.cs
+  uploadId: 707675

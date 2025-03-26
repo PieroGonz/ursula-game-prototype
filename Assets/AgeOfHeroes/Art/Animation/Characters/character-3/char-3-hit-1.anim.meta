@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 24a440633e69a3f4b8f58b9fa96bf34e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Art/Animation/Characters/character-3/char-3-hit-1.anim
+  uploadId: 707675

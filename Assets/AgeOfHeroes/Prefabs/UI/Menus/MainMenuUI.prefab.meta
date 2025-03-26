@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 473bf4c4adde20942aeca4a49d6f7dd9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Prefabs/UI/Menus/MainMenuUI.prefab
+  uploadId: 707675

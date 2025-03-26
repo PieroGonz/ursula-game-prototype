@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6262be5affa449e448951a3d6a637b24
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Art/Animation/Enemies/enemy-reptile-1-stand-1.anim
+  uploadId: 707675

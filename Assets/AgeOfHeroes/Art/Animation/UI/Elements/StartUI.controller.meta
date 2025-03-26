@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ec8d652549c1c7e488ed9fd3db83543f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Art/Animation/UI/Elements/StartUI.controller
+  uploadId: 707675

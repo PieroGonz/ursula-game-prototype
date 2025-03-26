@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 799f4e37161c7c447a84cfba68bea96c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/ScriptableObjects/BoxRewards/BoxReward 3.asset
+  uploadId: 707675

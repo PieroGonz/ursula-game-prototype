@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbaf69d3414c97c43abb36f3671525bf, type: 3}
+  m_Name: avatar-eye 6
+  m_EditorClassIdentifier: 
+  m_TitleFarsi: "\uFEE2\uFEB8\uFB7C"
+  m_TitleEnglish: eye-6
+  m_PriceInCoin: 1000
+  m_PriceInGem: 1000
+  m_Icon: {fileID: 21300000, guid: eb6d39b51d03e1e479e955f2fc0ac244, type: 3}
+  m_IconLocked: {fileID: 0}
+  m_Unlocked: 0
+  m_UnlockedAtStart: 0
+  m_TempUnlocked: 0
+  m_SpecialPackage: 0
+  m_ItemID: Item1
+  m_ItemLevel: 0
+  m_PartType: 2
+  m_PartSprite: {fileID: 21300000, guid: 5a614078bec5b424e9f706d239995d7e, type: 3}

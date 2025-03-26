@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f41552e6d00d87c43b8a3f15749fb3f7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Prefabs/Particles/prt-heal-1.prefab
+  uploadId: 707675

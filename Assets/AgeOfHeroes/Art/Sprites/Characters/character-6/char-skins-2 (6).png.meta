@@ -1,0 +1,440 @@
+fileFormatVersion: 2
+guid: e67f95b3c13b58344a0811d3fe3005d2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 5
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: char-skins-2 (6)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 345
+        width: 258
+        height: 105
+      alignment: 9
+      pivot: {x: 0.768761, y: 0.45537952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d1c9203596c5744b0cddec645e7f97
+      internalID: 606922089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char-skins-2 (6)_1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 346
+        width: 166
+        height: 92
+      alignment: 9
+      pivot: {x: 0.7201459, y: 0.4694446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4ef442296ca98448ab6707607443a8
+      internalID: 2078011353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char-skins-2 (6)_2
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 173
+        width: 333
+        height: 252
+      alignment: 9
+      pivot: {x: 0.5892948, y: 0.07263008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f8603894228124ea86ab41855d0208
+      internalID: 1970625151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char-skins-2 (6)_3
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 210
+        width: 91
+        height: 94
+      alignment: 9
+      pivot: {x: 0.530891, y: 0.77911574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5416908052ad1154ba8cd325ca34af21
+      internalID: 1095518815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char-skins-2 (6)_4
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 219
+        width: 159
+        height: 105
+      alignment: 9
+      pivot: {x: 0.6473318, y: 0.4464553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5c86dea3fbfa34c927de7716c619ee
+      internalID: -878951695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char-skins-2 (6)_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 125
+        width: 63
+        height: 30
+      alignment: 9
+      pivot: {x: 0.41075897, y: 0.74987537}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7458ed912c4bd1340af1567abba21d7e
+      internalID: 748323802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char-skins-2 (6)_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 116
+        width: 19
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.842817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c5742249a3fb745b0b6a289c5787dc
+      internalID: 935518101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char-skins-2 (6)_7
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 110
+        width: 41
+        height: 61
+      alignment: 9
+      pivot: {x: 0.6514349, y: 0.6687589}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2faac7084fdd5748a8d4ff4218c87ad
+      internalID: 16707664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char-skins-2 (6)_8
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 124
+        width: 126
+        height: 78
+      alignment: 9
+      pivot: {x: 0.87183803, y: 0.48798683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67102da3f5c32aa48a084ddc45b34c98
+      internalID: 1137621141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char-skins-2 (6)_9
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 18
+        width: 115
+        height: 116
+      alignment: 9
+      pivot: {x: 0.37777844, y: 0.37883207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2024a14459ae819498248dae384edcf8
+      internalID: 221425729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char-skins-2 (6)_10
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 18
+        width: 114
+        height: 116
+      alignment: 9
+      pivot: {x: 0.3767063, y: 0.36267635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab901beff41d45418bfd021b2effbb5
+      internalID: -1089067729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char-skins-2 (6)_11
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 101
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b51965133545d4d831e083c6da9532
+      internalID: 1211190011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char-skins-2 (6)_12
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 0
+        width: 108
+        height: 88
+      alignment: 9
+      pivot: {x: 0.8817537, y: 0.55324036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8597bbeb7bdfe4d4196b4845b3020cce
+      internalID: 525385041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      char-skins-2 (6)_11: 1211190011
+      char-skins-2 (6)_12: 525385041
+      char-skins-2 (6)_6: 935518101
+      char-skins-2 (6)_5: 748323802
+      char-skins-2 (6)_8: 1137621141
+      char-skins-2 (6)_2: 1970625151
+      char-skins-2 (6)_7: 16707664
+      char-skins-2 (6)_0: 606922089
+      char-skins-2 (6)_9: 221425729
+      char-skins-2 (6)_1: 2078011353
+      char-skins-2 (6)_4: -878951695
+      char-skins-2 (6)_10: -1089067729
+      char-skins-2 (6)_3: 1095518815
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Art/Sprites/Characters/character-6/char-skins-2 (6).png
+  uploadId: 707675

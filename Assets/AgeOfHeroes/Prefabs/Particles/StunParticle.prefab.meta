@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5b2e3ac0ead2d58498225e4c52b80b70
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Prefabs/Particles/StunParticle.prefab
+  uploadId: 707675

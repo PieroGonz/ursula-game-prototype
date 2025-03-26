@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a1f2c95cef4f5eb44bfb7fde0257745b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Art/Animation/Characters/character-8/char-8-attack-3.anim
+  uploadId: 707675

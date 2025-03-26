@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ac58839e6f5cb454cbdbdebafa79bc5f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Prefabs/Gameplay/Projectiles/StaffProjectile.prefab
+  uploadId: 707675

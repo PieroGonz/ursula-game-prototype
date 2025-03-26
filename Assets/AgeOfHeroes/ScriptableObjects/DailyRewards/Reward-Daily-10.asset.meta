@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2e3875c2e5d12284f9287470c4b676d7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/ScriptableObjects/DailyRewards/Reward-Daily-10.asset
+  uploadId: 707675

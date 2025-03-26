@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 90e7f76e43509b849884ca0bd18e79fe
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/ScriptableObjects/Equipment/char-1-wpn 1.asset
+  uploadId: 707675

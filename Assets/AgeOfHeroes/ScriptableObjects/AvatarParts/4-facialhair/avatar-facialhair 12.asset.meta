@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fbbb92c5b7791ed49a8a8620b64e8e76
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/ScriptableObjects/AvatarParts/4-facialhair/avatar-facialhair
+    12.asset
+  uploadId: 707675

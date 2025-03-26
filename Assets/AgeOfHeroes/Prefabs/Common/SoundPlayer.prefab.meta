@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 50d8b3f517417514d99de8f333e7e976
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Prefabs/Common/SoundPlayer.prefab
+  uploadId: 707675

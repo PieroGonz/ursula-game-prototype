@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5fcd6179542e7574ebc07796884ff940
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/ScriptableObjects/AvatarParts/0-torso/avatar-torso
+    6.asset
+  uploadId: 707675

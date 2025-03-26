@@ -23,7 +23,7 @@ public class ParabolicBall : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-        zHeight = groundLevel;                  // Set the ball’s initial position at ground level
+        zHeight = groundLevel;                  // Set the ballï¿½s initial position at ground level
         verticalVelocity = throwVerticalForce;  // Initial vertical velocity when kicked
     }
 
@@ -93,15 +93,15 @@ public class ParabolicBall : MonoBehaviour
     private void ApplyAirDrag()
     {
         // Apply drag force based on current horizontal velocity while in the air
-        if (rb.velocity.magnitude > minimalVelocityThreshold)
+        if (rb.linearVelocity.magnitude > minimalVelocityThreshold)
         {
-            Vector2 dragForce = -rb.velocity.normalized * dragCoefficient * rb.velocity.sqrMagnitude;
+            Vector2 dragForce = -rb.linearVelocity.normalized * dragCoefficient * rb.linearVelocity.sqrMagnitude;
             rb.AddForce(dragForce, ForceMode2D.Force);
 
             // Stop completely if the drag brings us below the threshold
-            if (rb.velocity.magnitude < minimalVelocityThreshold)
+            if (rb.linearVelocity.magnitude < minimalVelocityThreshold)
             {
-                rb.velocity = Vector2.zero;
+                rb.linearVelocity = Vector2.zero;
             }
         }
     }
@@ -109,25 +109,25 @@ public class ParabolicBall : MonoBehaviour
     private void ApplyGroundFriction()
     {
         // Apply friction force based on current horizontal velocity when on the ground
-        if (rb.velocity.magnitude > minimalVelocityThreshold)
+        if (rb.linearVelocity.magnitude > minimalVelocityThreshold)
         {
-            Vector2 frictionForce = -rb.velocity.normalized * frictionCoefficient;
+            Vector2 frictionForce = -rb.linearVelocity.normalized * frictionCoefficient;
             rb.AddForce(frictionForce, ForceMode2D.Force);
 
             // Stop completely if the friction brings us below the threshold
-            if (rb.velocity.magnitude < minimalVelocityThreshold)
+            if (rb.linearVelocity.magnitude < minimalVelocityThreshold)
             {
-                rb.velocity = Vector2.zero;
+                rb.linearVelocity = Vector2.zero;
             }
         }
     }
 
     private void UpdateRotation()
     {
-        if (rotationTransform != null && rb.velocity.magnitude > minimalVelocityThreshold) // Only update rotation if moving
+        if (rotationTransform != null && rb.linearVelocity.magnitude > minimalVelocityThreshold) // Only update rotation if moving
         {
             // Calculate the movement direction of the ball based on its velocity
-            Vector3 movementDirection = new Vector3(rb.velocity.x, rb.velocity.y, verticalVelocity).normalized;
+            Vector3 movementDirection = new Vector3(rb.linearVelocity.x, rb.linearVelocity.y, verticalVelocity).normalized;
 
             // Determine the target rotation that aligns with the movement direction
             Quaternion targetRotation = Quaternion.LookRotation(movementDirection, Vector3.right);
@@ -139,7 +139,7 @@ public class ParabolicBall : MonoBehaviour
             Vector3 rollingAxis = Vector3.Cross(movementDirection, Vector3.right).normalized;
 
             // Calculate rolling effect based on speed
-            float rollAmount = rb.velocity.magnitude * rotationSpeedFactor * Time.deltaTime;
+            float rollAmount = rb.linearVelocity.magnitude * rotationSpeedFactor * Time.deltaTime;
 
             // Apply the rolling effect around the calculated rolling axis
             rotationTransform.Rotate(rollingAxis, rollAmount, Space.World);

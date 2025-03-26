@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3c7758cc9f8c3be44ae599a36bddbef9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Prefabs/UI/UIParticles/UIParticle_Coins_1.prefab
+  uploadId: 707675

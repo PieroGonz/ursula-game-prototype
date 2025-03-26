@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 513a53f1a0c884b45ba1bce7e050d389
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Prefabs/UI/UIElements/DamageText1.prefab
+  uploadId: 707675

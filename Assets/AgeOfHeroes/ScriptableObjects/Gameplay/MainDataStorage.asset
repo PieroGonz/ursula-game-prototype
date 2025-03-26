@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: acf182a125298ee41a9d66b779391666, type: 3}
+  m_Name: MainDataStorage
+  m_EditorClassIdentifier: 
+  m_PlayerData: {fileID: 11400000, guid: d20854d83f936de4d9f3dddcf5146d3e, type: 2}
+  m_Contents: {fileID: 11400000, guid: c79d90aa941ae5d419710fddca27e559, type: 2}
+  Coin: 12150
+  Gem: 2
+  m_PlayerXP: 110
+  m_CharactersNumber: 090000000600000003000000
+  m_LastLevelNum: 6
+  m_ShowWinLevel: 1
+  m_WinCount: 1
+  m_DailyOfferRecieved: 0
+  m_ShowTapsellErrorMessage: 0
+  MuteMusic: 0
+  m_UnlockFriendlyOnlineGame: 0
+  m_RemoveAds: 0
+  m_CustomizeProfilePic: 0
+  m_Chests: 0101000000000000000000000000000000000000
+  m_PlayerCommented: 0
+  m_GotDailyReward: 1
+  m_NotFirstTimeInGame: 1
+  PowerCounts: 0800000005000000050000000000000000000000
+  m_RewardWheelCount: 0
+  m_RandomReward: 0
+  VideoCountSeen: 0
+  m_PowersVideoCountSeen: 0
+  m_DayNumInGame: 1
+  m_CurrentRewardVideoRequest: 1
+  m_SubscribeDate: 

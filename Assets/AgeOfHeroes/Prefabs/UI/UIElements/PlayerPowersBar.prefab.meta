@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 624106f873bdd2d4e9157316f7b43aa3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Prefabs/UI/UIElements/PlayerPowersBar.prefab
+  uploadId: 707675

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 68f3e6e91670d884db6d370d0c3769bb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Art/Animation/Characters/character-1/char-1-attack-3.anim
+  uploadId: 707675

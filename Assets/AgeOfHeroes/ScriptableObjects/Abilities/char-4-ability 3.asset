@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e733e1fc22693643a651e7aea759f85, type: 3}
+  m_Name: char-4-ability 3
+  m_EditorClassIdentifier: 
+  m_TitleFarsi: "\uFBFD\uFEE4\uFEE8\uFEEC\uFE9F \uFEAE\uFE92\uFE97"
+  m_TitleEnglish: Hell axe
+  m_PriceInCoin: 0
+  m_PriceInGem: 20
+  m_Icon: {fileID: 21300000, guid: bc06cf20583529d4b934fa082fcb29e8, type: 3}
+  m_IconLocked: {fileID: 21300000, guid: bc06cf20583529d4b934fa082fcb29e8, type: 3}
+  m_Unlocked: 1
+  m_UnlockedAtStart: 0
+  m_TempUnlocked: 0
+  m_SpecialPackage: 0
+  m_ItemID: Item1
+  m_ItemLevel: 0
+  m_MainWeapon: 1
+  m_BaseDamageRangeMin: 12
+  m_BaseDamageRangeMax: 17
+  m_Stun: 0
+  m_Buff: 0
+  m_Bleed: 0
+  m_Blade: 1
+  m_CoolDown: 2
+  m_AttackDistance: 55

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ad068dfd8f36a2f4fad8c867c318568d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/ScriptableObjects/Abilities/char-7-ability 1.asset
+  uploadId: 707675

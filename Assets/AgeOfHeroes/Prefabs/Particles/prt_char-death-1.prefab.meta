@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 08711ebece5cf3b4aa765b5ef15af10d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Prefabs/Particles/prt_char-death-1.prefab
+  uploadId: 707675

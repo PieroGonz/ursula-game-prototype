@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fcd7bb226bf0ce2448ef920d3cf383ab
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Prefabs/UI/Menus/XPBarAdd.prefab
+  uploadId: 707675

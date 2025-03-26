@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f59398b91d976c84f9123f312461213f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Art/Animation/UI/InGameDialogs/AttackQuotes_Show_1.anim
+  uploadId: 707675

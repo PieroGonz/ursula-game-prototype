@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ceabe507cc852e441884ce1de4b41877
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Art/Animation/UI/WinUI/CornRewardPumpkin_1.controller
+  uploadId: 707675

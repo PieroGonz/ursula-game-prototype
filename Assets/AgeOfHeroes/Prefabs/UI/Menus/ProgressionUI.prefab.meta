@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c95f7897c3e477f4493aced9fad3e108
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Prefabs/UI/Menus/ProgressionUI.prefab
+  uploadId: 707675

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b84f48439a1da7b4595f83b3f9a8d9f8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Art/Animation/UI/UIMessages/UIMessage_Idle_1.anim
+  uploadId: 707675

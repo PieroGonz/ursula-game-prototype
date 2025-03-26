@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d8c227c97ee9b0544adef8499937bd1a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Prefabs/Gameplay/Projectiles/CannonBullet.prefab
+  uploadId: 707675

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9791af70f80356c49b846ddaf1b7354d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Prefabs/Gameplay/Characters/AIEnemies/enemy-troll-2-2.prefab
+  uploadId: 707675

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d5d5709bb66e9ae4289fcfb63ac42005
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Art/Animation/UI/Elements/MainMenuBackground.controller
+  uploadId: 707675

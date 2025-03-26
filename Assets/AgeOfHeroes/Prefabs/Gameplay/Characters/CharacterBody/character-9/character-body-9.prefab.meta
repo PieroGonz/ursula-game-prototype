@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e6be169d58ab95b49997b1d26ccdb22e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Prefabs/Gameplay/Characters/CharacterBody/character-9/character-body-9.prefab
+  uploadId: 707675

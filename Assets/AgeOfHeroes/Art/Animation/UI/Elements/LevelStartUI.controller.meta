@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a2d6386e65348bb4d93d70ac4f1ea5e4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Art/Animation/UI/Elements/LevelStartUI.controller
+  uploadId: 707675

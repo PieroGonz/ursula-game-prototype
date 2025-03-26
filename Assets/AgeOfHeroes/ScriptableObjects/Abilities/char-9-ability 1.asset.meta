@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1767fd636c2f98f4a84fcda19457411d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/ScriptableObjects/Abilities/char-9-ability 1.asset
+  uploadId: 707675

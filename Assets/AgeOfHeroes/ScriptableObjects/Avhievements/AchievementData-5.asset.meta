@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c176d000416324846a5d5a1adf112011
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/ScriptableObjects/Avhievements/AchievementData-5.asset
+  uploadId: 707675

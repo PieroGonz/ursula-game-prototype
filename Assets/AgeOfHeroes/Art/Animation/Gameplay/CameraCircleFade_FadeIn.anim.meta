@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a49d6a30277a83642b97b6716d46ab39
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Art/Animation/Gameplay/CameraCircleFade_FadeIn.anim
+  uploadId: 707675

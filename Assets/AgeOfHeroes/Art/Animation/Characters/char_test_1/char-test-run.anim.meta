@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 35453bde94ddf424fbb14b865801eba7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Art/Animation/Characters/char_test_1/char-test-run.anim
+  uploadId: 707675

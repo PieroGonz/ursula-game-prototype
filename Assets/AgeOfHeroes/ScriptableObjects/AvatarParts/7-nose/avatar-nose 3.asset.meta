@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c8607bce7a1218243910a28bd1ecf4fe
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/ScriptableObjects/AvatarParts/7-nose/avatar-nose
+    3.asset
+  uploadId: 707675

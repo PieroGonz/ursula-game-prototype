@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c5d0ee8e9ef8a7646a8d4c8aef63a067
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Prefabs/UI/Menus/panel-powers.prefab
+  uploadId: 707675

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bd3e8c8227c662f45987e1818df73c85
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Prefabs/UI/Menus/JoystickUI.prefab
+  uploadId: 707675

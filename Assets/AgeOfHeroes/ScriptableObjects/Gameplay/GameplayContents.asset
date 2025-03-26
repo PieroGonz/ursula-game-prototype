@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2cc6385aac30834bb68a2a11f1a3988, type: 3}
+  m_Name: GameplayContents
+  m_EditorClassIdentifier: 
+  m_StatParticles:
+  - {fileID: 6046896534663611699, guid: 5b2e3ac0ead2d58498225e4c52b80b70, type: 3}
+  - {fileID: 6046896534663611699, guid: e4f5e02643845bb43978e72605cd551b, type: 3}
+  - {fileID: 6046896534663611699, guid: 27895ab8e8876834d9a53dc988f83f5a, type: 3}
+  m_HitParticles:
+  - {fileID: 9122117104955927257, guid: 16bd275796d3aa3489681a71bf297a29, type: 3}
+  - {fileID: 9122117104955927257, guid: 463223024a5d5b445b8ce5f8101aea4d, type: 3}
+  m_SelectPawnParticle: {fileID: 9122117104955927257, guid: a1c261af8e3cd4647a8977590819da56, type: 3}
+  m_HealParticle: {fileID: 7833856302214107648, guid: f41552e6d00d87c43b8a3f15749fb3f7, type: 3}

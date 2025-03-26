@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b695f5df93bd9fa468f59be8e5f1991c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Prefabs/UI/RewardUI/StageRewardUI.prefab
+  uploadId: 707675

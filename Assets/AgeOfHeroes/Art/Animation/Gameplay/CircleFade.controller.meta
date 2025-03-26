@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9aabf403e79f6014d8fd56c23fe37eae
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Art/Animation/Gameplay/CircleFade.controller
+  uploadId: 707675

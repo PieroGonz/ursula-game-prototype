@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7afc22ffa82cb6643b9dc64980b24deb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Prefabs/UI/Menus/ItemUpgradeBar.prefab
+  uploadId: 707675

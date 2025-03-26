@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: db29072f6be4989429786638d000df69
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Prefabs/UI/UIMessages/UIMessage_A.prefab
+  uploadId: 707675

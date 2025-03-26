@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d94a8a145a9d6e44098bd53b81fb6cbe
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Prefabs/Common/GameSpeedControl.prefab
+  uploadId: 707675

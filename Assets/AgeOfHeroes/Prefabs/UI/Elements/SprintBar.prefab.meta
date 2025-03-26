@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4c972e8aa8bdb7847b8a6508693f0135
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Prefabs/UI/Elements/SprintBar.prefab
+  uploadId: 707675

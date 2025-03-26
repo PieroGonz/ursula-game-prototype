@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7c02f9329ddd46d46a940d52e7991ee7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/ScriptableObjects/Gameplay/UITextContents.asset
+  uploadId: 707675

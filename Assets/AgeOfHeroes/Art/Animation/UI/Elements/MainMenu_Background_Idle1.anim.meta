@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f75caa7bde6b51540b264fbb1d9c181a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Art/Animation/UI/Elements/MainMenu_Background_Idle1.anim
+  uploadId: 707675

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82092a9b69ca26648969a3af3de1a61e, type: 3}
+  m_Name: AvatarPartList 6
+  m_EditorClassIdentifier: 
+  m_Parts:
+  - {fileID: 11400000, guid: 4cfcf67813fbbb64c9e7e1cc0451cdb1, type: 2}
+  - {fileID: 11400000, guid: b8c30acdc0f83ee498f2d6a0ba1359e0, type: 2}
+  - {fileID: 11400000, guid: 44ed2ae262d377b448fb784efa076206, type: 2}
+  - {fileID: 11400000, guid: 493873660acdf5241b4da0f2af24742d, type: 2}
+  - {fileID: 11400000, guid: 2dd785c8205b13e4eb93a2c41af40b33, type: 2}
+  - {fileID: 11400000, guid: 11b0db717ce7dac44bf2dedc5afb2512, type: 2}
+  - {fileID: 11400000, guid: db196eeb49299f74e9bc4475cfaa11c0, type: 2}
+  - {fileID: 11400000, guid: 838555a0b3bac5848a87e4e9ab31596d, type: 2}
+  - {fileID: 11400000, guid: ab03114168377f541a7921ec73909ef3, type: 2}

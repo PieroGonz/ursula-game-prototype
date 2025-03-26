@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 65496ac1088f26f4ab0ec3a569e54042
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Art/Animation/Objects/Pickups/Pickup_Loop_1.anim
+  uploadId: 707675

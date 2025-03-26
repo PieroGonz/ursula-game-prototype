@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fdf75c41d8a691f42849fd689719606b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Prefabs/Particles/UIParticle_Upgrade_1.prefab
+  uploadId: 707675

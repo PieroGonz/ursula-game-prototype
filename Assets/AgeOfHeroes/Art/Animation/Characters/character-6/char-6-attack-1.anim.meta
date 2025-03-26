@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 30f5428225ffba94585a106f0d839ac7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Art/Animation/Characters/character-6/char-6-attack-1.anim
+  uploadId: 707675

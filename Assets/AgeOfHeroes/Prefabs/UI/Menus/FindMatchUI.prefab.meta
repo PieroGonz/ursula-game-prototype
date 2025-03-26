@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0de6ad747cf851048bdabf446ae2925a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Prefabs/UI/Menus/FindMatchUI.prefab
+  uploadId: 707675

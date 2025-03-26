@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c3eda67e607a41d4092ed7568ee951af
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Art/Animation/UI/Elements/Transition_In.anim
+  uploadId: 707675

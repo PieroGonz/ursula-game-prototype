@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ec6d1a7a98d007c409287cdb49e40369
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Art/Animation/Objects/Pickups/Base.controller
+  uploadId: 707675

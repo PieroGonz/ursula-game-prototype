@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ec576db98cb13da4a8bcd193f60fb702
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Prefabs/UI/Menus/DailyMessageUI.prefab
+  uploadId: 707675

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c5dcd4cc05200f647b593e755fc2fffd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Art/Materials/Particle/mat_prt_1.mat
+  uploadId: 707675

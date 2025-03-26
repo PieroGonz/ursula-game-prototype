@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5e7c3e98f202a65419ed3705838d908e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Prefabs/UI/Menus/SquadUI.prefab
+  uploadId: 707675

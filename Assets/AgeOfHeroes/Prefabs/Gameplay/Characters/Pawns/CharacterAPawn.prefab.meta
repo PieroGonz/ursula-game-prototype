@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d2576e831a6875c4d8d6d6c8ffb43c2c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Prefabs/Gameplay/Characters/Pawns/CharacterAPawn.prefab
+  uploadId: 707675

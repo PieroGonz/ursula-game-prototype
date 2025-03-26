@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 652f108082ea3fb4a9f4d82729092ccd, type: 3}
+  m_Name: Character8-1
+  m_EditorClassIdentifier: 
+  m_TitleFarsi: "\uFBFC\uFEA9\uFE8E\uFECB \uFEB1\uFE8E\uFE92\uFEDF"
+  m_TitleEnglish: Normal Skin
+  m_PriceInCoin: 0
+  m_PriceInGem: 0
+  m_Icon: {fileID: 21300000, guid: 479e1e705e8c6c24181343d124a45849, type: 3}
+  m_IconLocked: {fileID: 0}
+  m_Unlocked: 1
+  m_UnlockedAtStart: 1
+  m_TempUnlocked: 0
+  m_SpecialPackage: 0
+  m_ItemID: Item1
+  m_ItemLevel: 0
+  m_Prefab: {fileID: 396966802338336094, guid: ed1a56760d7d84e44b3f83b28539a0f9, type: 3}
+  m_BaseBodyPrefab: {fileID: 7597726706328523591, guid: e2444d7cc77c85a4c83f616d238bf652, type: 3}
+  m_AddedHealth: 0

@@ -4,24 +4,35 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Hat
+  - Key
+  - PhysicObject
+  - Bomb
+  - Barrier
+  - NPC
+  - Menu
+  - Block
+  - Enemy
+  - Tile
+  - Pawn
+  - Chest
+  - LevelPortal
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Ursula
+  - 
   - Water
   - UI
-  - RainCollide
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Wall
+  - Door
+  - IgnoreProjector
+  - 2DBackground
+  - Avatar
+  - Ball
+  - SoccerPlayer
+  - field-boarder
   - 
   - 
   - 
@@ -41,4 +52,7 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: UIParticle
+    uniqueID: 213768529
     locked: 0

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e082d2ae6060c7f408739f05e30a7b97
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Art/Animation/Characters/char_test_1/char-test-stand.anim
+  uploadId: 707675

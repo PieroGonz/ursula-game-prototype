@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 64ac63f0b199f5e4396c3ce20020124f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Prefabs/Gameplay/Exploration/grass.prefab
+  uploadId: 707675

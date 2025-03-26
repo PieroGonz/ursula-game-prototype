@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4df8aa4bd5e8c3a4ebaec91ca6da409f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301890
+  packageName: Age Of Heroes - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/AgeOfHeroes/Scripts/UI/UIAnimations/UIAnimation_GrowIn.cs
+  uploadId: 707675
