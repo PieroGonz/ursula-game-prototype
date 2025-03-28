@@ -8,9 +8,9 @@
       "hash": "d2ff4ec8e34ee877e8be853afe01ec4334954d05"
     },
     "com.bezi.sidekick": {
-      "version": "file:C:\\Users\\piero\\AppData\\Roaming\\Bezi/Packages/com.bezi.sidekick",
+      "version": "file:com.bezi.sidekick",
       "depth": 0,
-      "source": "local",
+      "source": "embedded",
       "dependencies": {
         "com.unity.nuget.newtonsoft-json": "3.2.1"
       }

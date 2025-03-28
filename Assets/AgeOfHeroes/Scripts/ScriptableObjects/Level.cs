@@ -11,6 +11,7 @@ namespace AgeOfHeroes.ScriptableObjects
         public int m_WorldNum = 0;
         public int m_ReqiredLevel;
         public bool m_Passed = false;
+        public string m_LevelName;
         public Character[] m_EnemyCharacters;
 
         public int m_LevelTheme = 0;

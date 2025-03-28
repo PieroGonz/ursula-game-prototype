@@ -55,14 +55,14 @@ namespace AgeOfHeroes
 
         public void BtnLevel()
         {
-            ExplorationControl.m_Current.LoadLevel();
-            ExplorationControl.m_Current.m_Pawns[0].m_CanMove = false;
+            //ExplorationControl.m_Current.LoadLevel();
+            //ExplorationControl.m_Current.m_Pawns[0].m_CanMove = false;
         }
 
         public void BtnChest()
         {
             HideChestPanel();
-            ExplorationControl.m_Current.OpenChest();
+            //ExplorationControl.m_Current.OpenChest();
         }
 
         public void BtnExit()
@@ -72,7 +72,7 @@ namespace AgeOfHeroes
 
         public void ShowLevelUI()
         {
-            m_LevelNum.text = (ExplorationControl.m_Current.m_LevelNum + 1).ToString();
+            m_LevelNum.text = m_Content.m_Levels[ExplorationControl.m_Current.m_LevelNum].m_LevelName;
             m_LevelPanel.gameObject.SetActive(true);
 
             for (int i = 0; i < 3; i++)

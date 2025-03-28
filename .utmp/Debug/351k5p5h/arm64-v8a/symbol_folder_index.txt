@@ -1,0 +1,1 @@
+C:\Users\Piero Herrera\ursula-game-prototype\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\Debug\351k5p5h\obj\arm64-v8a

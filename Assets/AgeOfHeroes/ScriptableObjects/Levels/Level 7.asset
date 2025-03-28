@@ -12,7 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 44ab84ea40b967f4faf984c6ecd7deb3, type: 3}
   m_Name: Level 7
   m_EditorClassIdentifier: 
-  m_TitleFarsi: none
   m_TitleEnglish: none
   m_PriceInCoin: 1000
   m_PriceInGem: 1000
@@ -28,6 +27,7 @@ MonoBehaviour:
   m_WorldNum: 0
   m_ReqiredLevel: 0
   m_Passed: 0
+  m_LevelName: Rival
   m_EnemyCharacters:
   - {fileID: 11400000, guid: 504cdb669db1d934097e4d0f59937c0e, type: 2}
   - {fileID: 11400000, guid: efea57a7cda4bae4880e861e32602e7d, type: 2}

@@ -12,14 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 44ab84ea40b967f4faf984c6ecd7deb3, type: 3}
   m_Name: Level 4
   m_EditorClassIdentifier: 
-  m_TitleFarsi: none
   m_TitleEnglish: none
   m_PriceInCoin: 1000
   m_PriceInGem: 1000
   m_Icon: {fileID: 0}
   m_IconLocked: {fileID: 0}
   m_Unlocked: 0
-  m_UnlockedAtStart: 0
+  m_UnlockedAtStart: 1
   m_TempUnlocked: 0
   m_SpecialPackage: 0
   m_ItemID: Item1
@@ -28,6 +27,7 @@ MonoBehaviour:
   m_WorldNum: 0
   m_ReqiredLevel: 0
   m_Passed: 0
+  m_LevelName: Enemy
   m_EnemyCharacters:
   - {fileID: 11400000, guid: 1af64043350e3424092ec9a2ad658f22, type: 2}
   - {fileID: 11400000, guid: efea57a7cda4bae4880e861e32602e7d, type: 2}

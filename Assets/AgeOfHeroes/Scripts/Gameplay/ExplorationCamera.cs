@@ -21,7 +21,7 @@ namespace AgeOfHeroes
         // Start is called before the first frame update
         void Start()
         {
-            m_TargetSize = 200;
+            m_TargetSize = 150;
         }
 
         void Update()
