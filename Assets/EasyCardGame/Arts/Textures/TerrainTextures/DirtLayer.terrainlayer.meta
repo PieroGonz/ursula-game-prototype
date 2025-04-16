@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5582c782c18e5f045a7287545d119367
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Arts/Textures/TerrainTextures/DirtLayer.terrainlayer
+  uploadId: 449622

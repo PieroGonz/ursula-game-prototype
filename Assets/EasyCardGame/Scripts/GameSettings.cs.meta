@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: fcbad3b9512d77544a83450b44295c69
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Scripts/GameSettings.cs
+  uploadId: 449622

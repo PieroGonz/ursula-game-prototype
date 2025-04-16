@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 747baca1cff28fc44a451c4dee739417
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Resources/Cards/RottingCorpse.json
+  uploadId: 449622

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 735210251e7b5234a99efcfcaea249f0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/DataLoaders/HitEffectPool.asset
+  uploadId: 449622

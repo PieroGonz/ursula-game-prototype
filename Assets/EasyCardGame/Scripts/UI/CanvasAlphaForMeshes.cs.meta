@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f359640292cc67c4f8aec3dfd706e179
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Scripts/UI/CanvasAlphaForMeshes.cs
+  uploadId: 449622

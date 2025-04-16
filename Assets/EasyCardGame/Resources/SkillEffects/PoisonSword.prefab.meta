@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 68aaa9441f395a64ab996eab77cb2815
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Resources/SkillEffects/PoisonSword.prefab
+  uploadId: 449622

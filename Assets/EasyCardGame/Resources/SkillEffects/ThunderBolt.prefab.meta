@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 79a68b350e883474e883ae83552b8dba
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Resources/SkillEffects/ThunderBolt.prefab
+  uploadId: 449622

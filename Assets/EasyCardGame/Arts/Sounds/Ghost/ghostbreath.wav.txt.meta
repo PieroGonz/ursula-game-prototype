@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0aed8ed2d51f0f545865ee444629dc17
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Arts/Sounds/Ghost/ghostbreath.wav.txt
+  uploadId: 449622

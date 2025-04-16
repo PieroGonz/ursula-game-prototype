@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ddf904c82ef88354c98f9af6978d92bb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Prefabs/UI/Turns.prefab
+  uploadId: 449622

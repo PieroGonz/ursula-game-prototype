@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b851db225239b1941acb41ffc8111415
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Prefabs/UI/UIMessage.prefab
+  uploadId: 449622

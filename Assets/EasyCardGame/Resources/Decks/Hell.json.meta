@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 00d38de725aaa134bb030c49de839398
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Resources/Decks/Hell.json
+  uploadId: 449622

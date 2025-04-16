@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c5ad1cbd369647c4690becfc0142432a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Arts/Materials/EffectMaterials/AdditiveAlphaEmissive.mat
+  uploadId: 449622

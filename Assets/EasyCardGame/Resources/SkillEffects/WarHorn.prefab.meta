@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ba6565bd71de15944b16c157174e94d5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Resources/SkillEffects/WarHorn.prefab
+  uploadId: 449622

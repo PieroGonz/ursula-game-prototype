@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 595a50e90ea6c86419786284b93730b6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Arts/Materials/GameplayMaterials/TargetMark.mat
+  uploadId: 449622

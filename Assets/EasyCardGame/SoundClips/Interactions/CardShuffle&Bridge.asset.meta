@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2fee369228261344eade041ce1d6815e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/SoundClips/Interactions/CardShuffle&Bridge.asset
+  uploadId: 449622

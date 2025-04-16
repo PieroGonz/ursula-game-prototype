@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1478d60edad4939429f6867932e54b44
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/SoundClips/SkillEffects/Healed.asset
+  uploadId: 449622

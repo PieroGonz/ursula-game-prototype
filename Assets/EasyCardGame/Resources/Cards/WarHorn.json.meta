@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ba209b75ee5ea6947a8983403a954d4a
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Resources/Cards/WarHorn.json
+  uploadId: 449622

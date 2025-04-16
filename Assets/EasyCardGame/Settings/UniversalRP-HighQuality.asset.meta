@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 48827eda11c0981408203f389c5f9e35
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Settings/UniversalRP-HighQuality.asset
+  uploadId: 449622

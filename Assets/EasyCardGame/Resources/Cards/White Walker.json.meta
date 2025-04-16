@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7cf1dcba00cde79408db9fc84c1d2959
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Resources/Cards/White Walker.json
+  uploadId: 449622

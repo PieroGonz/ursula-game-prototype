@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 97f0ceb220cf4e1449a58399c50d9b06
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Prefabs/LayoutEffects/ErrorGuide.prefab
+  uploadId: 449622

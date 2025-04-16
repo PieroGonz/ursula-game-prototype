@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 084ae869028413e4aa33142dd11b9d54
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Prefabs/TableRow.prefab
+  uploadId: 449622

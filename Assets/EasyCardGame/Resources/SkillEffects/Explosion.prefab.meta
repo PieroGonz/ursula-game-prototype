@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 342fb1e5b02e7cf469456b142148e3d0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Resources/SkillEffects/Explosion.prefab
+  uploadId: 449622

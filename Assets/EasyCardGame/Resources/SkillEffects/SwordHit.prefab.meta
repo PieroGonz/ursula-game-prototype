@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 71950aafc7623d246ae5d799939f2170
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Resources/SkillEffects/SwordHit.prefab
+  uploadId: 449622

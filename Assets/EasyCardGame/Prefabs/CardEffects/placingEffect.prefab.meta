@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 09dcdc64e55b59947b98962d0dd44abc
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Prefabs/CardEffects/placingEffect.prefab
+  uploadId: 449622

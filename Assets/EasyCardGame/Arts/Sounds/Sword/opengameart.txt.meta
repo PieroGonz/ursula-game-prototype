@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b08da9fa4284c1d4db77c3a718cd3452
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Arts/Sounds/Sword/opengameart.txt
+  uploadId: 449622

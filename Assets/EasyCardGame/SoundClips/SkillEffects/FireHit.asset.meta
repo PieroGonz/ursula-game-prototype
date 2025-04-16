@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fa48b677a1bb1b74f8bd10bfa96fde8d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/SoundClips/SkillEffects/FireHit.asset
+  uploadId: 449622

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6ceb5c5464f922e46b20c5567ae15da5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/SoundClips/Interactions/CardSlide.asset
+  uploadId: 449622

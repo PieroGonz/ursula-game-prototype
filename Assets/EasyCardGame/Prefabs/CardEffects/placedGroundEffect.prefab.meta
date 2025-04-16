@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0b5673cd4a2a7624e84b9dd77998efa7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Prefabs/CardEffects/placedGroundEffect.prefab
+  uploadId: 449622

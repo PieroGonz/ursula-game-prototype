@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1f17f64e009c0ce43bd8423a9f944461
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Prefabs/UI/Tooltips/cardTooltip.prefab
+  uploadId: 449622

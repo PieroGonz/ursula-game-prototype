@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8f6b730a95834654b934b1a243501b5c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Scenes/GameSettings.lighting
+  uploadId: 449622

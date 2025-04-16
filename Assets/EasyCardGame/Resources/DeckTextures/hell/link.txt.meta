@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ef6c1ae7a78e7bf4ea891f9ca21dadf9
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Resources/DeckTextures/hell/link.txt
+  uploadId: 449622

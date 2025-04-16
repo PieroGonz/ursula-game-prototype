@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9fbf546862820e4499a526f384b12934
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Resources/Cards/PatrolUnit.json
+  uploadId: 449622

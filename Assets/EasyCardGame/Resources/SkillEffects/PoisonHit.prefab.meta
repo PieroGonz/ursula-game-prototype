@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c928493629a24dc418403c3cd03eaeeb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Resources/SkillEffects/PoisonHit.prefab
+  uploadId: 449622

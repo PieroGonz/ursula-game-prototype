@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a3cea0180779b0940bbca0e5f7b02690
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Scripts/Layouts/TableLayout.cs
+  uploadId: 449622

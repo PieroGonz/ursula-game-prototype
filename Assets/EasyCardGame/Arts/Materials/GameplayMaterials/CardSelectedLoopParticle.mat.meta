@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ceb12a93a7538a24497343b5342feed0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Arts/Materials/GameplayMaterials/CardSelectedLoopParticle.mat
+  uploadId: 449622

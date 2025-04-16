@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 44922e6105c9b82488fcc2d836a67f4f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Scripts/Animation/CardDraggingOffsets.cs
+  uploadId: 449622

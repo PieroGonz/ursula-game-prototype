@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4b1d3d3809552d44abf4bc58523e4d2c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Prefabs/UI/GameCardHealth.prefab
+  uploadId: 449622

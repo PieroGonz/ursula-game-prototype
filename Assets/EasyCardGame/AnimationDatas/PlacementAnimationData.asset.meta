@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d7977eb1a0c940e4685875fa06188237
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/AnimationDatas/PlacementAnimationData.asset
+  uploadId: 449622

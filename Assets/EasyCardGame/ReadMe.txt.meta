@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d5bf17e79e67ae84b9f096f6076acd1b
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/ReadMe.txt
+  uploadId: 449622

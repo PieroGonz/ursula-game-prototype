@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a51307fb2d8189c41a14a7f1514e83aa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Scripts/GameEvents/GameInputs.cs
+  uploadId: 449622

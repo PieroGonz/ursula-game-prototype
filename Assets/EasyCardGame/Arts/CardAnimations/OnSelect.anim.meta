@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 45b3c15e7cc7daf47b898f54b02ee9ed
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Arts/CardAnimations/OnSelect.anim
+  uploadId: 449622

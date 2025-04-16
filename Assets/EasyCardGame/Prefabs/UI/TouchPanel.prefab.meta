@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 681d85ed2ec46094fb4a5c613deb3f25
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Prefabs/UI/TouchPanel.prefab
+  uploadId: 449622

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 71e5f4419ff25244dbcef63904c602d5
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Resources/Cards/RoyalKnight.json
+  uploadId: 449622

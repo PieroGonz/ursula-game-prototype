@@ -22,6 +22,8 @@ namespace AgeOfHeroes
         public JoystickButton ButtonD;
         public JoystickButton ButtonE;
 
+        public GameObject ConversationButton;
+
 
         public Image m_TechniqueFill;
         public Image m_TechniqueLight;
@@ -40,6 +42,7 @@ namespace AgeOfHeroes
         void Awake()
         {
             GeneralJoystick = this;
+            ConversationButton.SetActive(false);
         }
 
         // Use this for initialization

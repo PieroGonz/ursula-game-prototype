@@ -23,6 +23,7 @@ namespace AgeOfHeroes
 
         public LevelPoint m_CurrentLevelPoint;
         public Chest m_CurrentChest;
+        public ProCamera2DTriggerZoomController m_CurrentAgent;
 
         public bool m_ControledByPlayer = false;
         [HideInInspector]
@@ -61,6 +62,7 @@ namespace AgeOfHeroes
             {
                 CheckLevelPoint();
                 CheckChest();
+                CheckZoomPoint();
 
                 float vertical = Input.GetAxisRaw("Vertical");
                 float horizontal = Input.GetAxisRaw("Horizontal");
@@ -272,6 +274,51 @@ namespace AgeOfHeroes
                 {
                     ExplorationUI.m_Current.HideChestPanel();
                     m_CurrentChest = null;
+                }
+            }
+        }
+
+        public void CheckZoomPoint()
+        {
+            if (m_CurrentAgent == null)
+            {
+                bool found = false;
+                foreach (ProCamera2DTriggerZoomController point in ExplorationControl.m_Current.m_AgentZoomPoints)
+                {
+                    if (Helper.Distance2D(transform.position, point.transform.position) <= 50)
+                    {
+                        found = true;
+                        m_CurrentAgent = point;
+                        break;
+                    }
+                }
+
+                if (found)
+                {
+                    //m_CurrentLevelPoint.m_CloseMark.gameObject.SetActive(true);
+                    //ExplorationControl.m_Current.m_LevelNum = m_CurrentLevelPoint.m_Level.m_LevelNum;
+                    if (found)
+                    {
+                        //ExplorationUI.m_Current.ShowLevelUI();
+                        UltimateMobileQuickbar.EnableQuickbar("QuickBarMenu");
+                        Joystick.GeneralJoystick.ConversationButton.SetActive(true);
+                    }
+                    else
+                    {
+                        ExplorationUI.m_Current.ShowLockedLevelUI();
+                    }
+                }
+            }
+            else
+            {
+                if (Helper.Distance2D(transform.position, m_CurrentAgent.transform.position) > 50)
+                {
+                    //m_CurrentLevelPoint.m_CloseMark.gameObject.SetActive(false);
+                    //ExplorationUI.m_Current.HideLevelUI();
+
+                    UltimateMobileQuickbar.DisableQuickbar("QuickBarMenu");
+                    Joystick.GeneralJoystick.ConversationButton.SetActive(false);
+                    m_CurrentAgent = null;
                 }
             }
         }

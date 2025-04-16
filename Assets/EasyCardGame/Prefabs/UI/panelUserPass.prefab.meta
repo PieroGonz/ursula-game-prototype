@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d33d54300dc4a7843a1a8246f83adfb8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Prefabs/UI/panelUserPass.prefab
+  uploadId: 449622

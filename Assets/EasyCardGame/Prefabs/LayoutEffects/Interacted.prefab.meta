@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4a4c0f3783402d24982ec2cbfdf56533
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Prefabs/LayoutEffects/Interacted.prefab
+  uploadId: 449622

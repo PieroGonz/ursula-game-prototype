@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 30d78c4e8a8d0ad4081abd3959f22c80
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Scripts/Input/EventTouchSupport.cs
+  uploadId: 449622

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f699ee2dc533a3d4db91d78565889628
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Scripts/Editor/TexturePostProcessor.cs
+  uploadId: 449622

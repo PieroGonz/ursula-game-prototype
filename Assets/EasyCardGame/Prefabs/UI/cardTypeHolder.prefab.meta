@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d4410c1db4909c54da48458f5e998677
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Prefabs/UI/cardTypeHolder.prefab
+  uploadId: 449622

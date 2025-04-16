@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ede89cdc19da0cd46a97a69742f4ac7c
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Documentation/easycardgame-techdoc.pdf
+  uploadId: 449622

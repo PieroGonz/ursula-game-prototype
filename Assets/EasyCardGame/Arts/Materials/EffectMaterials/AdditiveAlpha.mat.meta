@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 94173f92801b4c443b2d01d1c6751e51
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Arts/Materials/EffectMaterials/AdditiveAlpha.mat
+  uploadId: 449622

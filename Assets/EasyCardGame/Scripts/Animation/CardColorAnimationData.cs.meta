@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 55892c2dd4af61543af9792a493a9f04
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Scripts/Animation/CardColorAnimationData.cs
+  uploadId: 449622

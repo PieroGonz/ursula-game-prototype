@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 84ab627a9d9c2aa48b105a7788e4a410
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/SoundClips/SkillEffects/Lightning.asset
+  uploadId: 449622

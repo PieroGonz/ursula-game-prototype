@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0ae74c6131d59004c86b1a0a2aa9a91a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Resources/SkillEffects/AcidStorm.prefab
+  uploadId: 449622

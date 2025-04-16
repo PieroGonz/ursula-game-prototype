@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6daa190d59856994194c1feef0158315
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Resources/SkillEffects/Meteor.prefab
+  uploadId: 449622

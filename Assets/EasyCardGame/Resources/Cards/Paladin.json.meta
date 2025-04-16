@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 36fb8191a43789f46a27e868e2cb295f
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Resources/Cards/Paladin.json
+  uploadId: 449622

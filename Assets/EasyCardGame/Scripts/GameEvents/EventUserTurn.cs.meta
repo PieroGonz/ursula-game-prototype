@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b8aa1d5cfafe9fa458b2ae59a8e27af9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Scripts/GameEvents/EventUserTurn.cs
+  uploadId: 449622

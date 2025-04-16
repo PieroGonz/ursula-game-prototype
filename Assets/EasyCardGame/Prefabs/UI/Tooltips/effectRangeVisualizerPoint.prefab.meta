@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 90f939bb770613d4c9cd61fd01f52b4d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Prefabs/UI/Tooltips/effectRangeVisualizerPoint.prefab
+  uploadId: 449622

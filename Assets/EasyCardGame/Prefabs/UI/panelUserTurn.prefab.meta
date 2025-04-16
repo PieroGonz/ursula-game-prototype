@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a33851ed77b448f4dac49d67d0ad1885
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Prefabs/UI/panelUserTurn.prefab
+  uploadId: 449622

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: be638250ad3d1d74cae726eb7fa80e02
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Resources/Decks/Raven.json
+  uploadId: 449622

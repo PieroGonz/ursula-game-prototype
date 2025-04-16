@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d1817354d437dad4d891a5fa2aa7bf5e
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Resources/Avatars/OpenGameArt/PatrolUnit/Links.txt
+  uploadId: 449622

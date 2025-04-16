@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d8dc4ae6524e06a49b7baf25da592932
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Resources/Cards/Wizard.json
+  uploadId: 449622

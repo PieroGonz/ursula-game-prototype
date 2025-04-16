@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 649ed113ec8c4e14ea1ff5472a7438ea
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/SoundClips/SkillEffects/IceHit.asset
+  uploadId: 449622

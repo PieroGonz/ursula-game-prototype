@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e49f40701f218dc49b95f680030ff1cb
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Arts/Sounds/Heal/OpenGameArt.txt
+  uploadId: 449622

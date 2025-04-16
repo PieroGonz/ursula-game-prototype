@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f9de9ab502dd40a449c76c66594f131b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Prefabs/UI/Tooltips/resistances Variant.prefab
+  uploadId: 449622

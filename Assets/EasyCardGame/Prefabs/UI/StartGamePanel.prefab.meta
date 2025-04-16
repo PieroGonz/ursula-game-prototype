@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1b0ce61a08da8504f927719a290e5516
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Prefabs/UI/StartGamePanel.prefab
+  uploadId: 449622

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 436c706daf463004e94eb7b8623f22f5
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Resources/Cards/Elephant.json
+  uploadId: 449622

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 88d3c6ad92edcdc4684e75773fe770f0
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Resources/Cards/skeletaldragon.json
+  uploadId: 449622

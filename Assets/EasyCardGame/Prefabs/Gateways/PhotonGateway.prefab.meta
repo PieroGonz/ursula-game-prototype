@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1ca444c8f5ac50d4b8bf6011f3cbdbaa
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Prefabs/Gateways/PhotonGateway.prefab
+  uploadId: 449622

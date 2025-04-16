@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 394cc9e3b529a0b4792a84e9bef9ef93
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Resources/Cards/AcidStorm.json
+  uploadId: 449622

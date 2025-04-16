@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 348a8ca252e6d224a9a5e8f68e0e5ab2
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Resources/Cards/Cyclops.json
+  uploadId: 449622

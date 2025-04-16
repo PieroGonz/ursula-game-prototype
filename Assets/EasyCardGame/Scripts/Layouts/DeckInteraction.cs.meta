@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 03c029ae6a3ce94419e690c34ae8ce96
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Scripts/Layouts/DeckInteraction.cs
+  uploadId: 449622

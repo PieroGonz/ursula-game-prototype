@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2098f2836c5c27c4a909b06c9f1d529b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Resources/Editor/cardEditorGUISkin.guiskin
+  uploadId: 449622

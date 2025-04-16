@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: baa9f2262d554d64e9d49cac25b31d57
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Prefabs/UI/CursorTouchHelp/CursorTouchHelp.prefab
+  uploadId: 449622

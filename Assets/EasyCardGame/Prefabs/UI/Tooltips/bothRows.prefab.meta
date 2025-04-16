@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 93ccca00cf53fe5449f567897b71b2bf
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Prefabs/UI/Tooltips/bothRows.prefab
+  uploadId: 449622

@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
@@ -80,8 +78,8 @@ namespace MoreMountains.Tools
 
 			if ((axis < ScaleThreshold) != BackVisible)
 			{
-				Front.SetActive(BackVisible);
-				Back.SetActive(!BackVisible);
+				//Front.SetActive(BackVisible);
+				//Back.SetActive(!BackVisible);
 				OnFlip?.Invoke();
 			}
 			BackVisible = (axis < ScaleThreshold);

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fad9d37761f19f244a69fe3c14ad3bdc
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Resources/Cards/Galed.json
+  uploadId: 449622

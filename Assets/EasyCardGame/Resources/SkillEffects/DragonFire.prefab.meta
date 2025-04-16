@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 17d5e609c706454428a2de0a3637da9c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Resources/SkillEffects/DragonFire.prefab
+  uploadId: 449622

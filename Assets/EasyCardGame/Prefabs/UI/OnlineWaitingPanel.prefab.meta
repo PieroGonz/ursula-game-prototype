@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 379793cbac7297b4cbfbc5723d6af8b1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Prefabs/UI/OnlineWaitingPanel.prefab
+  uploadId: 449622

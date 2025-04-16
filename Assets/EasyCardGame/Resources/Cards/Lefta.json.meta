@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bd010174f6415644cab9e9eb79997003
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Resources/Cards/Lefta.json
+  uploadId: 449622

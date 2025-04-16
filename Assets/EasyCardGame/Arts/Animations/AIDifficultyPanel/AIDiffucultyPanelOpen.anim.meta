@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6cb5e43102282b24a9f24227c8b942a2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Arts/Animations/AIDifficultyPanel/AIDiffucultyPanelOpen.anim
+  uploadId: 449622

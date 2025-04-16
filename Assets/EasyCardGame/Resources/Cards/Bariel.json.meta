@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 57ae6585507caa247813bde647917c93
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Resources/Cards/Bariel.json
+  uploadId: 449622

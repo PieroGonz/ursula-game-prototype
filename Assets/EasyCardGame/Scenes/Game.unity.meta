@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9ab145475b274ed4b90ebccff963d851
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Scenes/Game.unity
+  uploadId: 449622

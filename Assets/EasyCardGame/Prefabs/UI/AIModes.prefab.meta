@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 68746f24a278944408029db92c8a68da
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Prefabs/UI/AIModes.prefab
+  uploadId: 449622

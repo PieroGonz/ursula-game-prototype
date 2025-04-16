@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b78d9428c68e17c4680a12199de505a6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/SoundClips/SkillEffects/SwordHit.asset
+  uploadId: 449622

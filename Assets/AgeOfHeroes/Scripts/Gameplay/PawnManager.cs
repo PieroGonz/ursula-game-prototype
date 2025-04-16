@@ -2,6 +2,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using System.Collections.Generic;
 using AgeOfHeroes.ScriptableObjects;
+using Com.LuisPedroFonseca.ProCamera2D;
 
 namespace AgeOfHeroes
 {
@@ -101,14 +102,24 @@ namespace AgeOfHeroes
             // Setup camera to follow leader
             if (m_AllPawns.Count > 0 && m_MainLeader != null)
             {
-                if (ExplorationCamera.m_Main != null)
+                if (Camera.main != null)
                 {
-                    ExplorationCamera.m_Main.m_Target = m_MainLeader.transform;
-                    
-                    Vector3 cameraPos = m_MainLeader.transform.position;
-                    cameraPos.z = -1000;
-                    cameraPos.y += 50;
-                    ExplorationCamera.m_Main.transform.position = cameraPos;
+                    if (ProCamera2D.Instance != null)
+                    {
+                        Debug.Log("Found ProCamera2D Instance - setting target: " + m_MainLeader.name);
+                        // Remove all existing camera targets
+                        ProCamera2D.Instance.RemoveAllCameraTargets();
+                        
+                        // Add the new target with explicit horizontal and vertical influence values
+                        ProCamera2D.Instance.AddCameraTarget(m_MainLeader.transform, 1.0f, 1.0f);
+                        
+                        // Optional: If you need to adjust camera size/zoom
+                        //ProCamera2D.Instance.UpdateScreenSize(130f);
+                    }
+                    else
+                    {
+                        Debug.LogError("ProCamera2D Instance not found!");
+                    }
                 }
             }
         }
@@ -166,6 +177,7 @@ namespace AgeOfHeroes
             
             body.GetComponent<CharacterBody>().SetMainWeapon(characterData.m_Weapons[characterData.m_WeaponNum].m_BodySprite);
             body.transform.SetParent(pawnObj.transform, false);
+            body.gameObject.SetActive(false);
             
             // Configure pawn
             pawn.m_PawnNum = m_AllPawns.Count;
@@ -315,24 +327,37 @@ namespace AgeOfHeroes
             if (pawnNumber == 0)
                 return false;
                 
-            // Every Nth pawn is a sub-leader (1st sub-leader is pawn #1)
-            return pawnNumber % m_PawnsPerSubLeader == 1;
+            // Every first pawn in a group is a sub-leader
+            // Group indices would be: 1, 1+m_PawnsPerSubLeader, 1+2*m_PawnsPerSubLeader, etc.
+            return ((pawnNumber - 1) % m_PawnsPerSubLeader) == 0;
         }
         
         // Get the appropriate leader for a follower
+        // Update the GetAppropriateLeader method in PawnManager.cs
         private ExplorationPawn GetAppropriateLeader(int pawnNumber)
         {
             // If no sub-leaders, use main leader
             if (m_SubLeaders.Count == 0)
                 return m_MainLeader;
                 
-            // Find sub-leader for this pawn
-            int subLeaderIndex = (pawnNumber - 1) / m_PawnsPerSubLeader;
-            if (subLeaderIndex >= m_SubLeaders.Count)
-                subLeaderIndex = m_SubLeaders.Count - 1;
-                
-            return m_SubLeaders[subLeaderIndex];
+            // Calculate which sub-leader group this pawn belongs to
+            int subLeaderGroupSize = m_PawnsPerSubLeader - 1; // -1 because the sub-leader itself is in the count
+            int groupIndex = (pawnNumber - 1) / m_PawnsPerSubLeader; // -1 to account for the main leader
+            
+            // Find the right sub-leader
+            if (groupIndex < m_SubLeaders.Count)
+            {
+                // Debug.Log($"Assigning pawn {pawnNumber} to sub-leader {groupIndex+1}");
+                return m_SubLeaders[groupIndex];
+            }
+            else
+            {
+                // If we have more followers than sub-leaders can handle, assign to the last sub-leader
+                // Debug.Log($"Assigning pawn {pawnNumber} to last sub-leader (overflow)");
+                return m_SubLeaders[m_SubLeaders.Count - 1];
+            }
         }
+
         
         // Reassign followers after a sub-leader is removed
         private void ReassignFollowers(ExplorationPawn removedLeader)

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9f2aa12a6016d9747b5af0dec799b86e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Arts/Models/RockIcons/Model/Rocks.mat
+  uploadId: 449622

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9f8e712172f2c114e806b43f992e2392
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Arts/Textures/UI/boxButton/ReadMe.txt
+  uploadId: 449622

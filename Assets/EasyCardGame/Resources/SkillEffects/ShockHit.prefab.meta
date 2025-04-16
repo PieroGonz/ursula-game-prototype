@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4d372a883abce4d4abba3caf2c2f0ccd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Resources/SkillEffects/ShockHit.prefab
+  uploadId: 449622

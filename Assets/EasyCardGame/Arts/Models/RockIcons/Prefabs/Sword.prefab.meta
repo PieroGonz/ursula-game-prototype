@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 515c0f9bb7dd69f47a1b72f30501e79e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Arts/Models/RockIcons/Prefabs/Sword.prefab
+  uploadId: 449622

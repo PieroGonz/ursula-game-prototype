@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0e11fffd4718994469387a8f03e1c5e7
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Resources/Cards/Meteor.json
+  uploadId: 449622

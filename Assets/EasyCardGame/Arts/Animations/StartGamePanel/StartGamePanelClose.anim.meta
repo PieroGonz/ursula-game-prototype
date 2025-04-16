@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4e92c047f886f584e99d4848f3a555ce
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Arts/Animations/StartGamePanel/StartGamePanelClose.anim
+  uploadId: 449622

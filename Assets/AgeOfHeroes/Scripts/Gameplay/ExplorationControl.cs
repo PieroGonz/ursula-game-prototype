@@ -23,6 +23,7 @@ namespace AgeOfHeroes
 
         public Level[] m_LevelData;
         public LevelPoint[] m_LevelPoints;
+        public ProCamera2DTriggerZoomController[] m_AgentZoomPoints;
 
         public int m_LevelNum = 0;
 
@@ -63,34 +64,34 @@ namespace AgeOfHeroes
         }
         
         public void UpdateCharactersPosition()
+    {
+        // Delegate to the unified PawnManager
+        PawnManager pawnManager = FindObjectOfType<PawnManager>();
+        if (pawnManager == null)
         {
-            // Delegate to the unified PawnManager
-            PawnManager pawnManager = FindObjectOfType<PawnManager>();
-            if (pawnManager == null)
-            {
-                // If not found, create one
-                GameObject managerObj = new GameObject("PawnManager");
-                pawnManager = managerObj.AddComponent<PawnManager>();
-                
-                // Set references
-                pawnManager.SetDataStorage(m_DataStorage);
-                pawnManager.SetContent(m_Content);
-                pawnManager.SetPawnPrefab(m_ExplorationPawnPrefab);
-            }
+            // If not found, create one
+            GameObject managerObj = new GameObject("PawnManager");
+            pawnManager = managerObj.AddComponent<PawnManager>();
             
-            // Initialize pawns through the manager
-            pawnManager.InitializePawns();
-            
-            // Store reference to first pawn
-            if (pawnManager.GetAllPawns().Count > 0)
+            // Set references
+            pawnManager.SetDataStorage(m_DataStorage);
+            pawnManager.SetContent(m_Content);
+            pawnManager.SetPawnPrefab(m_ExplorationPawnPrefab);
+        }
+        
+        // Initialize pawns through the manager
+        pawnManager.InitializePawns();
+        
+        // Store reference to first pawn
+        if (pawnManager.GetAllPawns().Count > 0)
+        {
+            // Convert to array format for compatibility with existing code
+            m_Pawns = new ExplorationPawn[pawnManager.GetAllPawns().Count];
+            for (int i = 0; i < pawnManager.GetAllPawns().Count; i++)
             {
-                // Convert to array format for compatibility with existing code
-                m_Pawns = new ExplorationPawn[pawnManager.GetAllPawns().Count];
-                for (int i = 0; i < pawnManager.GetAllPawns().Count; i++)
-                {
-                    m_Pawns[i] = pawnManager.GetAllPawns()[i].GetComponent<ExplorationPawn>();
-                }
+                m_Pawns[i] = pawnManager.GetAllPawns()[i].GetComponent<ExplorationPawn>();
             }
+        }
 }
         public void OpenChest()
         {

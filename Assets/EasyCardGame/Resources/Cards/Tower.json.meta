@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 14b91fbc558e28849bd0dc4a9c704a25
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Resources/Cards/Tower.json
+  uploadId: 449622

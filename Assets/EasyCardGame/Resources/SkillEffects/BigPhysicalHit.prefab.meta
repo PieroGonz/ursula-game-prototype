@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f0c1d8f0c755e6c4a8a6b640d22fa120
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Resources/SkillEffects/BigPhysicalHit.prefab
+  uploadId: 449622

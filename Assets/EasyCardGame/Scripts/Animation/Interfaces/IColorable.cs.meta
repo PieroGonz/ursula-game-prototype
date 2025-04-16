@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c1ca32ff5d456304ca61be442a062df0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Scripts/Animation/Interfaces/IColorable.cs
+  uploadId: 449622

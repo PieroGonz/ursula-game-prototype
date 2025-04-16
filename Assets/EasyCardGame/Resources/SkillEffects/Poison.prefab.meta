@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7c324a6e91d26cb438d858deea73246c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Resources/SkillEffects/Poison.prefab
+  uploadId: 449622

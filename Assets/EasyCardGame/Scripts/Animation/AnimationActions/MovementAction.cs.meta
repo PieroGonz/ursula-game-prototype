@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b955d015f1be2b440b7a79e92aab59aa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Scripts/Animation/AnimationActions/MovementAction.cs
+  uploadId: 449622

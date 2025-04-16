@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+
 namespace AgeOfHeroes
 {
     public class Joystick_Stick : MonoBehaviour
@@ -21,10 +22,52 @@ namespace AgeOfHeroes
 
         public RectTransform m_MainRect;
 
+        // Reference to the quickbar
+        private UltimateMobileQuickbar quickbar;
+
+        // Add a BoxCollider2D for the initial interaction area
+        private BoxCollider2D interactionArea;
+
+        // Name of the quickbar (can be exposed in the inspector if needed)
+        private string quickbarName = "Minimalist Mobile Quickbar";
+
         // Use this for initialization
         void Start()
         {
             Hold = false;
+
+            // Initialize the main rectangle if not set
+            if (m_MainRect == null)
+                m_MainRect = transform.root.GetComponent<RectTransform>();
+
+            // Find the quickbar by name
+            GameObject quickbarObj = GameObject.Find(quickbarName);
+            if (quickbarObj != null)
+            {
+                quickbar = quickbarObj.GetComponent<UltimateMobileQuickbar>();
+            }
+
+            // Add a BoxCollider2D for the initial interaction area
+            interactionArea = gameObject.AddComponent<BoxCollider2D>();
+            interactionArea.size = new Vector2(320f, 320f); // Size can be adjusted as needed
+            interactionArea.isTrigger = true;
+        }
+
+        // Check if touch/click is within the interactionArea bounds
+        private bool IsWithinInteractionArea(Vector3 position)
+        {
+            // Convert screen position to local position
+            Vector3 localPos;
+            RectTransformUtility.ScreenPointToLocalPointInRectangle(
+                GetComponent<RectTransform>(),
+                position,
+                null,
+                out Vector2 localPoint);
+
+            localPos = new Vector3(localPoint.x, localPoint.y, 0);
+
+            // Check if the point is within the collider bounds
+            return interactionArea.bounds.Contains(transform.TransformPoint(localPos));
         }
 
         // Update is called once per frame
@@ -60,15 +103,33 @@ namespace AgeOfHeroes
             Vector3 foundPos = Vector3.zero;
             for (int i = 0; i < PointerPos.Length; i++)
             {
-                if (PointerPos[i].x < .6f * Screen.width && PointerPos[i].y < .9f * Screen.height)
+                if (PointerPos[i].x < 1.2f * Screen.width && PointerPos[i].y < 1.2f * Screen.height)
                 {
-                    Hold = true;
-                    foundPos = PointerPos[i];
-                    found = true;
+                    // If this is the first touch, check if it's within the interaction area
                     if (!m_PrevTouch)
                     {
-                        m_PrevTouch = true;
-                        m_OriginPosition = PointerPos[i];
+                        // Only allow initial interaction if within the defined area
+                        if (IsWithinInteractionArea(PointerPos[i]))
+                        {
+                            // Disable quickbar when joystick is activated
+                            if (quickbar != null)
+                            {
+                                //quickbar.DisableQuickbar();
+                            }
+
+                            m_PrevTouch = true;
+                            m_OriginPosition = PointerPos[i];
+                            Hold = true;
+                            foundPos = PointerPos[i];
+                            found = true;
+                        }
+                    }
+                    else
+                    {
+                        // Already touching, continue tracking
+                        Hold = true;
+                        foundPos = PointerPos[i];
+                        found = true;
                     }
                     break;
                 }
@@ -76,10 +137,16 @@ namespace AgeOfHeroes
 
             if (!found)
             {
+                // If we were previously touching, re-enable the quickbar
+                if (m_PrevTouch && quickbar != null)
+                {
+                    //quickbar.EnableQuickbar();
+                }
+
                 m_PrevTouch = false;
                 StickDirection = Vector3.zero;
 
-                Back.rectTransform.anchoredPosition = new Vector2(300, 230);
+                Back.rectTransform.anchoredPosition = new Vector2(420, 235);
                 Stick.enabled = false;
             }
             else
@@ -117,21 +184,6 @@ namespace AgeOfHeroes
                     m_OriginPosition = Vector3.Lerp(m_OriginPosition, foundPos, 5 * Time.deltaTime);
                 }
             }
-
-            // Vector3 StickPos = Vector3.zero;
-
-
-            // if (Hold)
-            // {
-            //     StickPos = HitPosition - transform.position;
-            //     Stick.gameObject.transform.localPosition = Vector3.ClampMagnitude(StickPos, 80);
-            //     StickDirection = Stick.gameObject.transform.localPosition / 80f;
-            // }
-            // else
-            // {
-            //     Stick.gameObject.transform.localPosition -= 10 * Time.deltaTime * Stick.gameObject.transform.localPosition;
-            //     StickDirection = Vector3.zero;
-            // }
         }
     }
 }

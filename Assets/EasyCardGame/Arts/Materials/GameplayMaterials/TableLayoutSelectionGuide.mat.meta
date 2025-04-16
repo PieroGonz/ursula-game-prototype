@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1faae9ff66ebe5241a89d357637517fb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Arts/Materials/GameplayMaterials/TableLayoutSelectionGuide.mat
+  uploadId: 449622

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5c47db5d7124e9e4698d2e2c41202c71
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Arts/Animations/UserScoreAnim.anim
+  uploadId: 449622

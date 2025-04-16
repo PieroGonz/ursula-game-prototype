@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e167c1984d46da04aad96be8b9544b9b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/SoundClips/SkillEffects/BowRelease.asset
+  uploadId: 449622

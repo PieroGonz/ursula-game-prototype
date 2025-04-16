@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c2163b2e2733a1e4581f3fc09f3a8e34
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Arts/Animations/TouchHelpPanel/touchAnim.anim
+  uploadId: 449622

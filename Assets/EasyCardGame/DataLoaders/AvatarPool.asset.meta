@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7dadd03a3ab5a944cb759780c1de4d64
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/DataLoaders/AvatarPool.asset
+  uploadId: 449622

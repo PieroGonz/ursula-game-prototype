@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cfc6686695d44354e8920f03f61a2f6e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Prefabs/Input/CancelKeyHolder.prefab
+  uploadId: 449622

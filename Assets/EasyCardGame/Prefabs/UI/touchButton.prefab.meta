@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 71614e3fd0cd2df469c73818772f91fe
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Prefabs/UI/touchButton.prefab
+  uploadId: 449622

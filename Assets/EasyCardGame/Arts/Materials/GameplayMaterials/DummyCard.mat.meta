@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 830b29b608b3f274ab85f6572b9dbad0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Arts/Materials/GameplayMaterials/DummyCard.mat
+  uploadId: 449622

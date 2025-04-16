@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 28d5a6c3343ad4b4f94bcf8888fb9e50
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Prefabs/UI/Tooltips/tooltipPanel.prefab
+  uploadId: 449622

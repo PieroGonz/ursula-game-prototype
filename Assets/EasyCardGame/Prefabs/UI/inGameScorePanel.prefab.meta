@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 771bbe1d0ba9eb34784d1f990dac0163
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Prefabs/UI/inGameScorePanel.prefab
+  uploadId: 449622

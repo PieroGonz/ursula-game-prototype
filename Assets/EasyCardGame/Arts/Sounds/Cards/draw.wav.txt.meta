@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cca79a75c6c464743805395222c55cd8
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Arts/Sounds/Cards/draw.wav.txt
+  uploadId: 449622

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 32cf45a75df3aa546866bafff28f863c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Scripts/Input/KeyHolding/SelectKeyHolding.cs
+  uploadId: 449622

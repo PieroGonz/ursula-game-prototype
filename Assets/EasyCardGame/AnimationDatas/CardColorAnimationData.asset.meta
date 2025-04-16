@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b5cd917a9ec4f614a9056aa475bd40fb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/AnimationDatas/CardColorAnimationData.asset
+  uploadId: 449622

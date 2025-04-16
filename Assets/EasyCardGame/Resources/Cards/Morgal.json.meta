@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 386a1e30fd8e641459c61cdd18814a9e
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Resources/Cards/Morgal.json
+  uploadId: 449622

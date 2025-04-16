@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fec58c4458b599f4798a2127fddadb0d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Prefabs/UI/cardType.prefab
+  uploadId: 449622

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ba2cf95be1beca44bb65b3d2345bf51a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192089
+  packageName: Easy Card Game
+  packageVersion: 1.5
+  assetPath: Assets/EasyCardGame/Arts/Materials/GameplayMaterials/Card.mat
+  uploadId: 449622
