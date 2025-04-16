@@ -2,6 +2,7 @@
 using UnityEngine;
 using CardSystem.Animation;
 using System.Linq;
+using MoreMountains.Feedbacks;
 
 namespace CardSystem
 {
@@ -106,6 +107,12 @@ namespace CardSystem
 
             // Remove from hand and rearrange remaining cards
             handLayout.RemoveCard(card);
+
+            MMF_Player playerFeedback = card.transform.GetComponentInChildren<MMF_Player>();
+            if (playerFeedback != null)
+            {
+                playerFeedback.PlayFeedbacks();
+            }
 
             // Here you can add card playing animation
             // ...

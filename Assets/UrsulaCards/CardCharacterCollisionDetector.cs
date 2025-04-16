@@ -91,18 +91,13 @@ public class CardCharacterCollisionDetector : MonoBehaviour
                 // You can trigger specific card-placement logic here
                 Debug.Log($"Card applied to character: {character.name}");
 
-                // Example: Get the character component and call a method
-                var characterComponent = character.GetComponent<AgeOfHeroes.CharacterH>();
-                if (characterComponent != null)
+                if (CardSystem.DeckManager.Instance != null)
                 {
-                    // characterComponent.ApplyCard(GetComponent<CardSystem.Card>());
-
-                    if (CardSystem.DeckManager.Instance != null)
-                    {
-                        CardSystem.DeckManager.Instance.PlayCard(GetComponent<CardSystem.Card>());
-                        Debug.Log("Returned cards to deck from zoom trigger");
-                    }
+                    CardSystem.DeckManager.Instance.PlayCard(GetComponent<CardSystem.Card>());
+                    Debug.Log("Returned cards to deck from zoom trigger");
                 }
+
+                // Example: Get the character component and call a method
             }
 
             collidingCharacters.Clear();

@@ -2294,7 +2294,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2425321141592297339, guid: f29e58f894ff83e4cb45c81f33425b53, type: 3}
       propertyPath: managedReferences[985100041404023132].Active
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2425321141592297339, guid: f29e58f894ff83e4cb45c81f33425b53, type: 3}
       propertyPath: managedReferences[985100041404023132].Chance
@@ -2562,7 +2562,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2425321141592297339, guid: f29e58f894ff83e4cb45c81f33425b53, type: 3}
       propertyPath: managedReferences[985100041404023159].Active
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2425321141592297339, guid: f29e58f894ff83e4cb45c81f33425b53, type: 3}
       propertyPath: managedReferences[985100041404023159].Chance
@@ -60258,15 +60258,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4890379604619175811, guid: f29e58f894ff83e4cb45c81f33425b53, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.3
+      value: 0.30000004
       objectReference: {fileID: 0}
     - target: {fileID: 4890379604619175811, guid: f29e58f894ff83e4cb45c81f33425b53, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.3
+      value: 0.30000004
       objectReference: {fileID: 0}
     - target: {fileID: 4890379604619175811, guid: f29e58f894ff83e4cb45c81f33425b53, type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.3
+      value: 0.30000004
       objectReference: {fileID: 0}
     - target: {fileID: 4890379604619175811, guid: f29e58f894ff83e4cb45c81f33425b53, type: 3}
       propertyPath: m_LocalPosition.x
@@ -60302,7 +60302,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4890379604619175811, guid: f29e58f894ff83e4cb45c81f33425b53, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -918
+      value: -918.00006
       objectReference: {fileID: 0}
     - target: {fileID: 4890379604619175811, guid: f29e58f894ff83e4cb45c81f33425b53, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -60631,6 +60631,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 4890379604619175810, guid: f29e58f894ff83e4cb45c81f33425b53, type: 3}
       insertIndex: -1
       addedObject: {fileID: 4828327602401263702}
+    - targetCorrespondingSourceObject: {fileID: 4890379604619175810, guid: f29e58f894ff83e4cb45c81f33425b53, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7509846251086411861}
     - targetCorrespondingSourceObject: {fileID: 4890379605247098300, guid: f29e58f894ff83e4cb45c81f33425b53, type: 3}
       insertIndex: -1
       addedObject: {fileID: 7352706681425201778}
@@ -60705,7 +60708,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7465677149715185876}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fbf437012cc0e3e4cbc4b0a9ed6eff21, type: 3}
   m_Name: 
@@ -60716,7 +60719,7 @@ MonoBehaviour:
   directionB: {x: 0, y: 1, z: 0}
   rotateDirectionsToCamera: 1
   _camera: {fileID: 0}
-  multiplier: 1000
+  multiplier: 900
   damping: 10
   scaleByTime: 0
   defaultPosition: {x: 0, y: 0, z: 0}
@@ -60728,7 +60731,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7465677149715185876}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5726d77b04f1a53448ffb9873ac0e474, type: 3}
   m_Name: 
@@ -60834,7 +60837,19 @@ MonoBehaviour:
         m_CallState: 2
   onSelectedFingerUp:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 427014296157349933}
+        m_TargetAssemblyTypeName: MoreMountains.Feedbacks.MMF_Player, MoreMountains.Feedbacks
+        m_MethodName: PlayFeedbacks
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   onSelectedSelectFinger:
     m_PersistentCalls:
       m_Calls: []
@@ -60887,6 +60902,21 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 720, y: 1024}
   m_EdgeRadius: 0
+--- !u!114 &7509846251086411861
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7465677149715185876}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da5b37728b5f832418bb9ff0cdfe1fdf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  characterTag: Enemy
+  checkInterval: 0.1
+  collisionDistance: 50
 --- !u!224 &7465677149715185877 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 4890379604619175811, guid: f29e58f894ff83e4cb45c81f33425b53, type: 3}
