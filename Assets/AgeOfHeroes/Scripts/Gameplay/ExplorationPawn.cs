@@ -317,7 +317,7 @@ namespace AgeOfHeroes
                     //ExplorationUI.m_Current.HideLevelUI();
 
                     UltimateMobileQuickbar.DisableQuickbar("QuickBarMenu");
-                    Joystick.GeneralJoystick.ConversationButton.SetActive(false);
+                    //Joystick.GeneralJoystick.ConversationButton.SetActive(false);
                     m_CurrentAgent = null;
                 }
             }
